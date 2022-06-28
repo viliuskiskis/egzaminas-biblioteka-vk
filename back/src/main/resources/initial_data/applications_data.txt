@@ -1,0 +1,299 @@
+﻿0 c.name;1 c.surname;2 c.ak;3  c.birthdate;4 p.name;5 p.surname;6 p.ak;7 p.email;8 p.phone;9 p.address;10 a.surname;11 a.name;12 a.ak;13 a.phone;14 a.email;15 a.address
+Rusnis;Riekašius;51601150093;2016-01-15;Vidymantas;Riekašius;38601150093;user1@user.lt;+37060000001;"Ilgiausia g. 1, Vilnius";Riekašė;Adolaida;49104120001;862000001;parent1@parent.lt;"Ilgiausia g. 1, Vilnius"
+Girmintas;Vėlius;51601150016;2016-01-15;Gytautas;Vėlius;38601150016;user2@user.lt;+37060000002;"Ilgiausia g. 2, Vilnius";Vėlė;Juvencija;49104120002;862000002;parent2@parent.lt;"Ilgiausia g. 2, Vilnius"
+Gitavtas;Subelis;51601150060;2016-01-15;Pilėnas;Subelis;38601150060;user3@user.lt;+37060000003;"Ilgiausia g. 3, Vilnius";Subelė;Sanga;49104120003;862000003;parent3@parent.lt;"Ilgiausia g. 3, Vilnius"
+Kornelis;Žaudzevičius;51601150038;2016-01-15;Vaigydas;Žaudzevičius;38601150038;user4@user.lt;+37060000004;"Ilgiausia g. 4, Vilnius";Žaudzevičė;Gracija;49104120004;862000004;parent4@parent.lt;"Ilgiausia g. 4, Vilnius"
+Gaivis;Jakubielskas;51601150049;2016-01-15;Milgedas;Jakubielskas;38601150049;user5@user.lt;+37060000005;"Ilgiausia g. 5, Vilnius";Jakubielskė;Laimantė;49104120005;862000005;parent5@parent.lt;"Ilgiausia g. 5, Vilnius"
+Patrik;Būtvilas;51601150005;2016-01-15;Ignnatijus;Būtvilas;38601150005;user6@user.lt;+37060000006;"Ilgiausia g. 6, Vilnius";Būtvilė;Penelopė;49104120006;862000006;parent6@parent.lt;"Ilgiausia g. 6, Vilnius"
+Polius;Vaišnoris;51601150053;2016-01-15;Lengvinas;Vaišnoris;38601150053;user7@user.lt;+37060000007;"Ilgiausia g. 7, Vilnius";Vaišnorė;Eolelija;49104120007;862000007;parent7@parent.lt;"Ilgiausia g. 7, Vilnius"
+Jorigis;Bloškys;51601150027;2016-01-15;Getautas;Bloškys;38601150027;user8@user.lt;+37060000008;"Ilgiausia g. 8, Vilnius";Blokšė;Deivydė;49104120008;862000008;parent8@parent.lt;"Ilgiausia g. 8, Vilnius"
+Elbertas;Daukantis;51601150071;2016-01-15;Voldis;Daukantis;38601150071;user9@user.lt;+37060000009;"Ilgiausia g. 9, Vilnius";Daukantė;Genija;49104120009;862000009;parent9@parent.lt;"Ilgiausia g. 9, Vilnius"
+Adolaida;Žitinskytė;61602150113;2016-02-15;Varonika;Žitinskytė;49402150113;user10@user.lt;+37060000010;"Ilgiausia g. 10, Vilnius";Žitinskas;Petras;38903150010;862000010;parent10@parent.lt;"Ilgiausia g. 10, Vilnius"
+Juvencija;Gazevičytė;61602150120;2016-02-15;Balanda;Gazevičytė;49402150120;user11@user.lt;+37060000011;"Ilgiausia g. 11, Vilnius";Gazevičius;Mantvilas;38903150011;862000011;parent11@parent.lt;"Ilgiausia g. 11, Vilnius"
+Sanga;Gecaitė;61602150131;2016-02-15;Zigfrida;Gecaitė;49402150131;user12@user.lt;+37060000012;"Ilgiausia g. 12, Vilnius";Gecaitis;Naras;38903150012;862000012;parent12@parent.lt;"Ilgiausia g. 12, Vilnius"
+Gracija;Kmiliauskaitė;61602150109;2016-02-15;Dija;Kmiliauskaitė;49402150109;user13@user.lt;+37060000013;"Ilgiausia g. 13, Vilnius";Kmiliauskas;Alvis;38903150013;862000013;parent13@parent.lt;"Ilgiausia g. 13, Vilnius"
+Laimantė;Paraknavičytė;61602150175;2016-02-15;Vince;Paraknavičytė;49402150175;user14@user.lt;+37060000014;"Ilgiausia g. 14, Vilnius";Paraknavičius;Alginas;38903150014;862000014;parent14@parent.lt;"Ilgiausia g. 14, Vilnius"
+Penelopė;Norvilovytė;61602150186;2016-02-15;Jautrė;Norvilovytė;49402150186;user15@user.lt;+37060000015;"Ilgiausia g. 15, Vilnius";Norvilovas;Vaidrimas;38903150015;862000015;parent15@parent.lt;"Ilgiausia g. 15, Vilnius"
+Eolelija;Kratavičaitė;61602150153;2016-02-15;Terėsė;Kratavičaitė;49402150153;user16@user.lt;+37060000016;"Ilgiausia g. 16, Vilnius";Kratavičius;Gaudvydas;38903150016;862000016;parent16@parent.lt;"Ilgiausia g. 16, Vilnius"
+Deivydė;Čiegiūtė;61602150142;2016-02-15;Jurgita;Čiegiūtė;49402150142;user17@user.lt;+37060000017;"Ilgiausia g. 17, Vilnius";Čiegius;Joviltas;38903150017;862000017;parent17@parent.lt;"Ilgiausia g. 17, Vilnius"
+Genija;Pipeniūtė;61602150164;2016-02-15;Gertruda;Pipeniūtė;49402150164;user18@user.lt;+37060000018;"Ilgiausia g. 18, Vilnius";Pipenius;Ildefons;38903150018;862000018;parent18@parent.lt;"Ilgiausia g. 18, Vilnius"
+Adelia;Aniukevičiūtė;61602150197;2016-02-15;Arvina;Aniukevičiūtė;49402150197;user19@user.lt;+37060000019;"Ilgiausia g. 19, Vilnius";Aniukevičius;Jotvis;38903150019;862000019;parent19@parent.lt;"Ilgiausia g. 19, Vilnius"
+Mantvilas;Damaševičius;51603150255;2016-03-15;Rimantis;Damaševičius;38603150255;user20@user.lt;+37060000020;"Ilgiausia g. 20, Vilnius";Damaševičė;Ona;49104120020;862000020;parent20@parent.lt;"Ilgiausia g. 20, Vilnius"
+Naras;Jarošius;51603150233;2016-03-15;Galius;Jarošius;38603150233;user21@user.lt;+37060000021;"Ilgiausia g. 21, Vilnius";Jarošė;Celestė;49104120021;862000021;parent21@parent.lt;"Ilgiausia g. 21, Vilnius"
+Alvis;Pernovas;51603150222;2016-03-15;Arymantas;Pernovas;38603150222;user22@user.lt;+37060000022;"Ilgiausia g. 22, Vilnius";Pernova;Vylma;49104120022;862000022;parent22@parent.lt;"Ilgiausia g. 22, Vilnius"
+Alginas;Ardauskas;51603150200;2016-03-15;Kantvilas;Ardauskas;38603150200;user23@user.lt;+37060000023;"Ilgiausia g. 23, Vilnius";Ardauskė;Armilė;49104120023;862000023;parent23@parent.lt;"Ilgiausia g. 23, Vilnius"
+Vaidrimas;Diedonis;51603150299;2016-03-15;Vinantas;Diedonis;38603150299;user24@user.lt;+37060000024;"Ilgiausia g. 24, Vilnius";Diedonė;Irtė;49104120024;862000024;parent24@parent.lt;"Ilgiausia g. 24, Vilnius"
+Gaudvydas;Sieliava;51603150277;2016-03-15;Platonas;Sieliava;38603150277;user25@user.lt;+37060000025;"Ilgiausia g. 25, Vilnius";Sieliava;Ilitija;49104120025;862000025;parent25@parent.lt;"Ilgiausia g. 25, Vilnius"
+Joviltas;Polinauskas;51603150288;2016-03-15;Kipras;Polinauskas;38603150288;user26@user.lt;+37060000026;"Ilgiausia g. 26, Vilnius";Polinauskė;Stefanija;49104120026;862000026;parent26@parent.lt;"Ilgiausia g. 26, Vilnius"
+Ildefons;Bruneikis;51603150266;2016-03-15;Marcelius;Bruneikis;38603150266;user27@user.lt;+37060000027;"Ilgiausia g. 27, Vilnius";Bruneikė;Chonija;49104120027;862000027;parent27@parent.lt;"Ilgiausia g. 27, Vilnius"
+Jotvis;Rudkevičius;51603150244;2016-03-15;Laimius;Rudkevičius;38603150244;user28@user.lt;+37060000028;"Ilgiausia g. 28, Vilnius";Rudkevičė;Algimantė;49104120028;862000028;parent28@parent.lt;"Ilgiausia g. 28, Vilnius"
+Mečislavas;Ščerbavičius;51603150211;2016-03-15;Iminas;Ščerbavičius;38603150211;user29@user.lt;+37060000029;"Ilgiausia g. 29, Vilnius";Ščerbavičė;Domnikija;49104120029;862000029;parent29@parent.lt;"Ilgiausia g. 29, Vilnius"
+Celestė;Rolaitė;61604150363;2016-04-15;Gilvilė;Rolaitė;49404150363;user30@user.lt;+37060000030;"Ilgiausia g. 30, Vilnius";Rolaitis;Antanas;38903150030;862000030;parent30@parent.lt;"Ilgiausia g. 30, Vilnius"
+Vylma;Rabcevičaitė;61604150315;2016-04-15;Ladislava;Rabcevičaitė;49404150315;user31@user.lt;+37060000031;"Ilgiausia g. 31, Vilnius";Rabcevičius;Pijus;38903150031;862000031;parent31@parent.lt;"Ilgiausia g. 31, Vilnius"
+Armilė;Mielutytė;61604150304;2016-04-15;Levonida;Mielutytė;49404150304;user32@user.lt;+37060000032;"Ilgiausia g. 32, Vilnius";Mieliutis;Eigimantas;38903150032;862000032;parent32@parent.lt;"Ilgiausia g. 32, Vilnius"
+Irtė;Večkytė;61604150337;2016-04-15;Nadžija;Večkytė;49404150337;user33@user.lt;+37060000033;"Ilgiausia g. 33, Vilnius";Večkus;Laurent;38903150033;862000033;parent33@parent.lt;"Ilgiausia g. 33, Vilnius"
+Ilitija;Daminevskiūtė;61604150359;2016-04-15;Minte;Daminevskiūtė;49404150359;user34@user.lt;+37060000034;"Ilgiausia g. 34, Vilnius";Daminevskus;Einius;38903150034;862000034;parent34@parent.lt;"Ilgiausia g. 34, Vilnius"
+Stefanija;Izėnaitė;61604150381;2016-04-15;Almanė;Izėnaitė;49404150381;user35@user.lt;+37060000035;"Ilgiausia g. 35, Vilnius";Izėnas;Genis;38903150035;862000035;parent35@parent.lt;"Ilgiausia g. 35, Vilnius"
+Chonija;Tuntaitė;61604150348;2016-04-15;Saugė;Tuntaitė;49404150348;user36@user.lt;+37060000036;"Ilgiausia g. 36, Vilnius";Tuntas;Vygis;38903150036;862000036;parent36@parent.lt;"Ilgiausia g. 36, Vilnius"
+Algimantė;Cesiulytė;61604150392;2016-04-15;Jolanta;Cesiulytė;49404150392;user37@user.lt;+37060000037;"Ilgiausia g. 37, Vilnius";Cesius;Rimbertas;38903150037;862000037;parent37@parent.lt;"Ilgiausia g. 37, Vilnius"
+Domnikija;Zienkaitė;61604150370;2016-04-15;Samuela;Zienkaitė;49404150370;user38@user.lt;+37060000038;"Ilgiausia g. 38, Vilnius";Zienkus;Augminas;38903150038;862000038;parent38@parent.lt;"Ilgiausia g. 38, Vilnius"
+Vingėla;Krevaldaitė;61604150326;2016-04-15;Milgintė;Krevaldaitė;49404150326;user39@user.lt;+37060000039;"Ilgiausia g. 39, Vilnius";Krevaldas;Emis;38903150039;862000039;parent39@parent.lt;"Ilgiausia g. 39, Vilnius"
+Pijus;Drinauskis;51605150417;2016-05-15;Alfonsas;Drinauskis;38605150417;user40@user.lt;+37060000040;"Ilgiausia g. 40, Vilnius";Drinauskė;Angelija;49104120040;862000040;parent40@parent.lt;"Ilgiausia g. 40, Vilnius"
+Eigimantas;Pržialgauskas;51605150483;2016-05-15;Vytalijus;Pržialgauskas;38605150483;user41@user.lt;+37060000041;"Ilgiausia g. 41, Vilnius";Pržialgauskė;Ida;49104120041;862000041;parent41@parent.lt;"Ilgiausia g. 41, Vilnius"
+Laurent;Dygymas;51605150461;2016-05-15;Galminas;Dygymas;38605150461;user42@user.lt;+37060000042;"Ilgiausia g. 42, Vilnius";Dygymė;Chabronija;49104120042;862000042;parent42@parent.lt;"Ilgiausia g. 42, Vilnius"
+Einius;Pūpelis;51605150494;2016-05-15;Lauris;Pūpelis;38605150494;user43@user.lt;+37060000043;"Ilgiausia g. 43, Vilnius";Pūpė;Ksavera;49104120043;862000043;parent43@parent.lt;"Ilgiausia g. 43, Vilnius"
+Genis;Grodeikis;51605150472;2016-05-15;Radulfas;Grodeikis;38605150472;user44@user.lt;+37060000044;"Ilgiausia g. 44, Vilnius";Grodeikė;Ala;49104120044;862000044;parent44@parent.lt;"Ilgiausia g. 44, Vilnius"
+Vygis;Svila;51605150450;2016-05-15;Trifonas;Svila;38605150450;user45@user.lt;+37060000045;"Ilgiausia g. 45, Vilnius";Svila;Birutėlė;49104120045;862000045;parent45@parent.lt;"Ilgiausia g. 45, Vilnius"
+Rimbertas;Kveselevičius;51605150406;2016-05-15;Gedeiminas;Kveselevičius;38605150406;user46@user.lt;+37060000046;"Ilgiausia g. 46, Vilnius";Kveselevičė;Juozapė;49104120046;862000046;parent46@parent.lt;"Ilgiausia g. 46, Vilnius"
+Augminas;Zykus;51605150443;2016-05-15;Geitvydas;Zykus;38605150443;user47@user.lt;+37060000047;"Ilgiausia g. 47, Vilnius";Zykė;Norgilė;49104120047;862000047;parent47@parent.lt;"Ilgiausia g. 47, Vilnius"
+Emis;Navackas;51605150428;2016-05-15;Mečius;Navackas;38605150428;user48@user.lt;+37060000048;"Ilgiausia g. 48, Vilnius";Navackė;Virgailė;49104120048;862000048;parent48@parent.lt;"Ilgiausia g. 48, Vilnius"
+Viktoras;Vapšys;51605150439;2016-05-15;Eivis;Vapšys;38605150439;user49@user.lt;+37060000049;"Ilgiausia g. 49, Vilnius";Vapšė;Alvida;49104120049;862000049;parent49@parent.lt;"Ilgiausia g. 49, Vilnius"
+Ida;Kerbėlytė;61606150587;2016-06-15;Zene;Kerbėlytė;49406150587;user50@user.lt;+37060000050;"Ilgiausia g. 50, Vilnius";Kerbėlys;Tomas;38903150050;862000050;parent50@parent.lt;"Ilgiausia g. 50, Vilnius"
+Chabronija;Apčinskiūtė;61606150503;2016-06-15;Laisvida;Apčinskiūtė;49406150503;user51@user.lt;+37060000051;"Ilgiausia g. 51, Vilnius";Apčinskas;Vidymantas;38903150051;862000051;parent51@parent.lt;"Ilgiausia g. 51, Vilnius"
+Ksavera;Kūlokytė;61606150598;2016-06-15;Janislava;Kūlokytė;49406150598;user52@user.lt;+37060000052;"Ilgiausia g. 52, Vilnius";Kūlokas;Karpis;38903150052;862000052;parent52@parent.lt;"Ilgiausia g. 52, Vilnius"
+Ala;Skadiniūtė;61606150521;2016-06-15;Verdženija;Skadiniūtė;49406150521;user53@user.lt;+37060000053;"Ilgiausia g. 53, Vilnius";Skadinius;Gytautas;38903150053;862000053;parent53@parent.lt;"Ilgiausia g. 53, Vilnius"
+Birutėlė;Četvergaitė;61606150576;2016-06-15;Bytautė;Četvergaitė;49406150576;user54@user.lt;+37060000054;"Ilgiausia g. 54, Vilnius";Četvergas;Pilėnas;38903150054;862000054;parent54@parent.lt;"Ilgiausia g. 54, Vilnius"
+Juozapė;Liupševičytė;61606150554;2016-06-15;Tolminė;Liupševičytė;49406150554;user55@user.lt;+37060000055;"Ilgiausia g. 55, Vilnius";Liupševičius;Vaigydas;38903150055;862000055;parent55@parent.lt;"Ilgiausia g. 55, Vilnius"
+Norgilė;Zalubaitė;61606150543;2016-06-15;Uljanija;Zalubaitė;49406150543;user56@user.lt;+37060000056;"Ilgiausia g. 56, Vilnius";Zalubas;Milgedas;38903150056;862000056;parent56@parent.lt;"Ilgiausia g. 56, Vilnius"
+Virgailė;Kirklys-masiokiūtė;61606150532;2016-06-15;Oktavija;Kirklys-masiokiūtė;49406150532;user57@user.lt;+37060000057;"Ilgiausia g. 57, Vilnius";Masiokiūtė;Ignnatijus;38903150057;862000057;parent57@parent.lt;"Ilgiausia g. 57, Vilnius"
+Alvida;Ledytė;61606150565;2016-06-15;Jurgė;Ledytė;49406150565;user58@user.lt;+37060000058;"Ilgiausia g. 58, Vilnius";Ledas;Lengvinas;38903150058;862000058;parent58@parent.lt;"Ilgiausia g. 58, Vilnius"
+Erna;Norvaišiūtė;61606150510;2016-06-15;Rufina;Norvaišiūtė;49406150510;user59@user.lt;+37060000059;"Ilgiausia g. 59, Vilnius";Norvaišas;Getautas;38903150059;862000059;parent59@parent.lt;"Ilgiausia g. 59, Vilnius"
+Vidymantas;Nanevičius;51907150654;2019-07-15;Rusnis;Nanevičius;38807150654;user60@user.lt;+37060000060;"Ilgiausia g. 60, Vilnius";Nanevičė;Aldona;49104120060;862000060;parent60@parent.lt;"Ilgiausia g. 60, Vilnius"
+Karpis;Liakerauskas;51907150687;2019-07-15;Girmintas;Liakerauskas;38807150687;user61@user.lt;+37060000061;"Ilgiausia g. 61, Vilnius";Liakerauskė;Varonika;49104120061;862000061;parent61@parent.lt;"Ilgiausia g. 61, Vilnius"
+Gytautas;Brilinkevičius;51907150665;2019-07-15;Gitavtas;Brilinkevičius;38807150665;user62@user.lt;+37060000062;"Ilgiausia g. 62, Vilnius";Brilinkevičė;Balanda;49104120062;862000062;parent62@parent.lt;"Ilgiausia g. 62, Vilnius"
+Pilėnas;Bloziukas;51907150698;2019-07-15;Kornelis;Bloziukas;38807150698;user63@user.lt;+37060000063;"Ilgiausia g. 63, Vilnius";Bloziukė;Zigfrida;49104120063;862000063;parent63@parent.lt;"Ilgiausia g. 63, Vilnius"
+Vaigydas;Lukševičius;51907150643;2019-07-15;Gaivis;Lukševičius;38807150643;user64@user.lt;+37060000064;"Ilgiausia g. 64, Vilnius";Lukševičė;Dija;49104120064;862000064;parent64@parent.lt;"Ilgiausia g. 64, Vilnius"
+Milgedas;Spuris;51907150632;2019-07-15;Patrik;Spuris;38807150632;user65@user.lt;+37060000065;"Ilgiausia g. 65, Vilnius";Spurė;Vince;49104120065;862000065;parent65@parent.lt;"Ilgiausia g. 65, Vilnius"
+Ignnatijus;Marusevičius;51907150621;2019-07-15;Polius;Marusevičius;38807150621;user66@user.lt;+37060000066;"Ilgiausia g. 66, Vilnius";Maruskevičė;Jautrė;49104120066;862000066;parent66@parent.lt;"Ilgiausia g. 66, Vilnius"
+Lengvinas;Goreika;51907150602;2019-07-15;Jorigis;Goreika;38807150602;user67@user.lt;+37060000067;"Ilgiausia g. 67, Vilnius";Goreika;Terėsė;49104120067;862000067;parent67@parent.lt;"Ilgiausia g. 67, Vilnius"
+Getautas;Spudys;51907150676;2019-07-15;Elbertas;Spudys;38807150676;user68@user.lt;+37060000068;"Ilgiausia g. 68, Vilnius";Spudė;Jurgita;49104120068;862000068;parent68@parent.lt;"Ilgiausia g. 68, Vilnius"
+Voldis;Grizickas;51907150610;2019-07-15;Jonas;Grizickas;38807150610;user69@user.lt;+37060000069;"Ilgiausia g. 69, Vilnius";Grizikė;Gertruda;49104120069;862000069;parent69@parent.lt;"Ilgiausia g. 69, Vilnius"
+Varonika;Zabalavičiūtė;61908150772;2019-08-15;Adolaida;Zabalavičiūtė;49808150772;user70@user.lt;+37060000070;"Ilgiausia g. 70, Vilnius";Zabalavičius;Jeronimas;49104120070;862000070;parent70@parent.lt;"Ilgiausia g. 70, Vilnius"
+Balanda;Terekas-malinaskytė;61908150769;2019-08-15;Juvencija;Terekas-malinaskytė;49808150769;user71@user.lt;+37060000071;"Ilgiausia g. 71, Vilnius";Malinaskytė;Adelija;49104120071;862000071;parent71@parent.lt;"Ilgiausia g. 71, Vilnius"
+Zigfrida;Maziliauskaitė;61908150758;2019-08-15;Sanga;Maziliauskaitė;49808150758;user72@user.lt;+37060000072;"Ilgiausia g. 72, Vilnius";Mazilauskas;Galius;38903150072;862000072;parent72@parent.lt;"Ilgiausia g. 72, Vilnius"
+Dija;Ušauskaitė;61908150747;2019-08-15;Gracija;Ušauskaitė;49808150747;user73@user.lt;+37060000073;"Ilgiausia g. 73, Vilnius";Ušauskas;Arymantas;38903150073;862000073;parent73@parent.lt;"Ilgiausia g. 73, Vilnius"
+Vince;Palapaitė;61908150780;2019-08-15;Laimantė;Palapaitė;49808150780;user74@user.lt;+37060000074;"Ilgiausia g. 74, Vilnius";Palapas;Kantvilas;38903150074;862000074;parent74@parent.lt;"Ilgiausia g. 74, Vilnius"
+Jautrė;Eiseniūtė;61908150714;2019-08-15;Penelopė;Eiseniūtė;49808150714;user75@user.lt;+37060000075;"Ilgiausia g. 75, Vilnius";Eisenas;Vinantas;38903150075;862000075;parent75@parent.lt;"Ilgiausia g. 75, Vilnius"
+Terėsė;Žirliūtė;61908150791;2019-08-15;Eolelija;Žirliūtė;49808150791;user76@user.lt;+37060000076;"Ilgiausia g. 76, Vilnius";Žirilius;Platonas;38903150076;862000076;parent76@parent.lt;"Ilgiausia g. 76, Vilnius"
+Jurgita;Sajinskiūtė;61908150725;2019-08-15;Deivydė;Sajinskiūtė;49808150725;user77@user.lt;+37060000077;"Ilgiausia g. 77, Vilnius";Sajinskas;Kipras;38903150077;862000077;parent77@parent.lt;"Ilgiausia g. 77, Vilnius"
+Gertruda;Paškevičiūtė;61908150736;2019-08-15;Genija;Paškevičiūtė;49808150736;user78@user.lt;+37060000078;"Ilgiausia g. 78, Vilnius";Paškevičius;Marcelius;38903150078;862000078;parent78@parent.lt;"Ilgiausia g. 78, Vilnius"
+Arvina;Zviravičaitė;61908150703;2019-08-15;Adelia;Zviravičaitė;49808150703;user79@user.lt;+37060000079;"Ilgiausia g. 79, Vilnius";Zviravičius;Laimius;38903150079;862000079;parent79@parent.lt;"Ilgiausia g. 79, Vilnius"
+Rimantis;Taseckas;51909150860;2019-09-15;Mantvilas;Taseckas;38809150860;user80@user.lt;+37060000080;"Ilgiausia g. 80, Vilnius";Taseckė;Iminas;38903150080;862000080;parent80@parent.lt;"Ilgiausia g. 80, Vilnius"
+Galius;Dėdynas;51909150852;2019-09-15;Naras;Dėdynas;38809150852;user81@user.lt;+37060000081;"Ilgiausia g. 81, Vilnius";Dėdynė;Gilvilė;49104120081;862000081;parent81@parent.lt;"Ilgiausia g. 81, Vilnius"
+Arymantas;Kavoliukas;51909150893;2019-09-15;Alvis;Kavoliukas;38809150893;user82@user.lt;+37060000082;"Ilgiausia g. 82, Vilnius";Kavoliukė;Ladislava;49104120082;862000082;parent82@parent.lt;"Ilgiausia g. 82, Vilnius"
+Kantvilas;Karlys;51909150849;2019-09-15;Alginas;Karlys;38809150849;user83@user.lt;+37060000083;"Ilgiausia g. 83, Vilnius";Karlė;Levonida;49104120083;862000083;parent83@parent.lt;"Ilgiausia g. 83, Vilnius"
+Vinantas;Budzinskas;51909150816;2019-09-15;Vaidrimas;Budzinskas;38809150816;user84@user.lt;+37060000084;"Ilgiausia g. 84, Vilnius";Budzinskė;Nadžija;49104120084;862000084;parent84@parent.lt;"Ilgiausia g. 84, Vilnius"
+Platonas;Vitkelis;51909150871;2019-09-15;Gaudvydas;Vitkelis;38809150871;user85@user.lt;+37060000085;"Ilgiausia g. 85, Vilnius";Vitkelė;Minte;49104120085;862000085;parent85@parent.lt;"Ilgiausia g. 85, Vilnius"
+Kipras;Bildunkevičius;51909150838;2019-09-15;Joviltas;Bildunkevičius;38809150838;user86@user.lt;+37060000086;"Ilgiausia g. 86, Vilnius";Bildunkevičė;Almanė;49104120086;862000086;parent86@parent.lt;"Ilgiausia g. 86, Vilnius"
+Marcelius;Karlonis;51909150827;2019-09-15;Ildefons;Karlonis;38809150827;user87@user.lt;+37060000087;"Ilgiausia g. 87, Vilnius";Karlonė;Saugė;49104120087;862000087;parent87@parent.lt;"Ilgiausia g. 87, Vilnius"
+Laimius;Smardakauskas;51909150882;2019-09-15;Jotvis;Smardakauskas;38809150882;user88@user.lt;+37060000088;"Ilgiausia g. 88, Vilnius";Smardakauskė;Jolanta;49104120088;862000088;parent88@parent.lt;"Ilgiausia g. 88, Vilnius"
+Iminas;Šolkauskas;51909150805;2019-09-15;Mečislavas;Šolkauskas;38809150805;user89@user.lt;+37060000089;"Ilgiausia g. 89, Vilnius";Šolkauskė;Samuela;49104120089;862000089;parent89@parent.lt;"Ilgiausia g. 89, Vilnius"
+Gilvilė;Zenteriūtė;61910150930;2019-10-15;Celestė;Zenteriūtė;49810150930;user90@user.lt;+37060000090;"Ilgiausia g. 90, Vilnius";Zenterius;Juozas;38903150090;862000090;parent90@parent.lt;"Ilgiausia g. 90, Vilnius"
+Ladislava;Ruškytė;61910150995;2019-10-15;Vylma;Ruškytė;49810150995;user91@user.lt;+37060000091;"Ilgiausia g. 91, Vilnius";Ruška;Alfonsas;38903150091;862000091;parent91@parent.lt;"Ilgiausia g. 91, Vilnius"
+Levonida;Pastalaitė;61910150984;2019-10-15;Armilė;Pastalaitė;49810150984;user92@user.lt;+37060000092;"Ilgiausia g. 92, Vilnius";Pastalas;Vytalijus;38903150092;862000092;parent92@parent.lt;"Ilgiausia g. 92, Vilnius"
+Nadžija;Kiaulakiūtė;61910150951;2019-10-15;Irtė;Kiaulakiūtė;49810150951;user93@user.lt;+37060000093;"Ilgiausia g. 93, Vilnius";Kiaulakius;Galminas;38903150093;862000093;parent93@parent.lt;"Ilgiausia g. 93, Vilnius"
+Minte;Gruševskiūtė;61910150940;2019-10-15;Ilitija;Gruševskiūtė;49810150940;user94@user.lt;+37060000094;"Ilgiausia g. 94, Vilnius";Gruševskis;Lauris;38903150094;862000094;parent94@parent.lt;"Ilgiausia g. 94, Vilnius"
+Almanė;Miliuševičaitė;61910150929;2019-10-15;Stefanija;Miliuševičaitė;49810150929;user95@user.lt;+37060000095;"Ilgiausia g. 95, Vilnius";Miliuševičius;Radulfas;38903150095;862000095;parent95@parent.lt;"Ilgiausia g. 95, Vilnius"
+Saugė;Andrešūniūtė;61910150962;2019-10-15;Chonija;Andrešūniūtė;49810150962;user96@user.lt;+37060000096;"Ilgiausia g. 96, Vilnius";Andrešius;Trifonas;38903150096;862000096;parent96@parent.lt;"Ilgiausia g. 96, Vilnius"
+Jolanta;Berkaitė;61910150907;2019-10-15;Algimantė;Berkaitė;49810150907;user97@user.lt;+37060000097;"Ilgiausia g. 97, Vilnius";Berkas;Gedeiminas;38903150097;862000097;parent97@parent.lt;"Ilgiausia g. 97, Vilnius"
+Samuela;Ciganaitytė;61910150918;2019-10-15;Domnikija;Ciganaitytė;49810150918;user98@user.lt;+37060000098;"Ilgiausia g. 98, Vilnius";Ciganas;Geitvydas;38903150098;862000098;parent98@parent.lt;"Ilgiausia g. 98, Vilnius"
+Milgintė;Čeilydkytė;61910150973;2019-10-15;Vingėla;Čeilydkytė;49810150973;user99@user.lt;+37060000099;"Ilgiausia g. 99, Vilnius";Čeilydka;Mečius;38903150099;862000099;parent99@parent.lt;"Ilgiausia g. 99, Vilnius"
+Alfonsas;Atroška;51911151066;2019-11-15;Pijus;Atroška;38811151066;user100@user.lt;+37060000100;"Ilgiausia g. 100, Vilnius";Atroška;Eivis;38903150100;862000100;parent100@parent.lt;"Ilgiausia g. 100, Vilnius"
+Vytalijus;Jankaitis;51911151048;2019-11-15;Eigimantas;Jankaitis;38811151048;user101@user.lt;+37060000101;"Ilgiausia g. 101, Vilnius";Jankaitė;Zene;49104120101;862000101;parent101@parent.lt;"Ilgiausia g. 101, Vilnius"
+Galminas;Skaldinas;51911151037;2019-11-15;Laurent;Skaldinas;38811151037;user102@user.lt;+37060000102;"Ilgiausia g. 102, Vilnius";Skaldinienė;Laisvida;49104120102;862000102;parent102@parent.lt;"Ilgiausia g. 102, Vilnius"
+Lauris;Makauskas;51911151026;2019-11-15;Einius;Makauskas;38811151026;user103@user.lt;+37060000103;"Ilgiausia g. 103, Vilnius";Makauskė;Janislava;49104120103;862000103;parent103@parent.lt;"Ilgiausia g. 103, Vilnius"
+Radulfas;Strepeika;51911151004;2019-11-15;Genis;Strepeika;38811151004;user104@user.lt;+37060000104;"Ilgiausia g. 104, Vilnius";Strepeika;Verdženija;49104120104;862000104;parent104@parent.lt;"Ilgiausia g. 104, Vilnius"
+Trifonas;Jaselionis;51911151015;2019-11-15;Vygis;Jaselionis;38811151015;user105@user.lt;+37060000105;"Ilgiausia g. 105, Vilnius";Jaselionė;Bytautė;49104120105;862000105;parent105@parent.lt;"Ilgiausia g. 105, Vilnius"
+Gedeiminas;Voičešonokas;51911151081;2019-11-15;Rimbertas;Voičešonokas;38811151081;user106@user.lt;+37060000106;"Ilgiausia g. 106, Vilnius";Voičešonoka;Tolminė;49104120106;862000106;parent106@parent.lt;"Ilgiausia g. 106, Vilnius"
+Geitvydas;Nikolskis;51911151059;2019-11-15;Augminas;Nikolskis;38811151059;user107@user.lt;+37060000107;"Ilgiausia g. 107, Vilnius";Nikolskė;Uljanija;49104120107;862000107;parent107@parent.lt;"Ilgiausia g. 107, Vilnius"
+Mečius;Baltrimas;51911151092;2019-11-15;Emis;Baltrimas;38811151092;user108@user.lt;+37060000108;"Ilgiausia g. 108, Vilnius";Baltrimė;Oktavija;49104120108;862000108;parent108@parent.lt;"Ilgiausia g. 108, Vilnius"
+Eivis;Bautaitis;51911151070;2019-11-15;Viktoras;Bautaitis;38811151070;user109@user.lt;+37060000109;"Ilgiausia g. 109, Vilnius";Baitaitė;Jurgė;49104120109;862000109;parent109@parent.lt;"Ilgiausia g. 109, Vilnius"
+Zene;Macinavičaitė;61912151119;2019-12-15;Ida;Macinavičaitė;49812151119;user110@user.lt;+37060000110;"Ilgiausia g. 110, Vilnius";Macinavičius;Rufina;49104120110;862000110;parent110@parent.lt;"Ilgiausia g. 110, Vilnius"
+Laisvida;Kalickytė;61912151196;2019-12-15;Chabronija;Kalickytė;49812151196;user111@user.lt;+37060000111;"Ilgiausia g. 111, Vilnius";Kalicka;Tadas;38903150111;862000111;parent111@parent.lt;"Ilgiausia g. 111, Vilnius"
+Janislava;Kurpavičytė;61912151185;2019-12-15;Ksavera;Kurpavičytė;49812151185;user112@user.lt;+37060000112;"Ilgiausia g. 112, Vilnius";Kurpavičius;Rimvydas;38903150112;862000112;parent112@parent.lt;"Ilgiausia g. 112, Vilnius"
+Verdženija;Muntrimaitė;61912151163;2019-12-15;Ala;Muntrimaitė;49812151163;user113@user.lt;+37060000113;"Ilgiausia g. 113, Vilnius";Muntrimas;Arvydas;38903150113;862000113;parent113@parent.lt;"Ilgiausia g. 113, Vilnius"
+Bytautė;Šmeigauskaitė;61912151130;2019-12-15;Birutėlė;Šmeigauskaitė;49812151130;user114@user.lt;+37060000114;"Ilgiausia g. 114, Vilnius";Šmeigauskas;Mantas;38903150114;862000114;parent114@parent.lt;"Ilgiausia g. 114, Vilnius"
+Tolminė;Grakovičaitė;61912151108;2019-12-15;Juozapė;Grakovičaitė;49812151108;user115@user.lt;+37060000115;"Ilgiausia g. 115, Vilnius";Grakovičius;Vidmantas;38903150115;862000115;parent115@parent.lt;"Ilgiausia g. 115, Vilnius"
+Uljanija;Paresčiūtė;61912151141;2019-12-15;Norgilė;Paresčiūtė;49812151141;user116@user.lt;+37060000116;"Ilgiausia g. 116, Vilnius";Paresčius;Aurimas;38903150116;862000116;parent116@parent.lt;"Ilgiausia g. 116, Vilnius"
+Oktavija;Tumiūtė;61912151126;2019-12-15;Virgailė;Tumiūtė;49812151126;user117@user.lt;+37060000117;"Ilgiausia g. 117, Vilnius";Tumius;Rimgaudas;38903150117;862000117;parent117@parent.lt;"Ilgiausia g. 117, Vilnius"
+Jurgė;Brunytė;61912151174;2019-12-15;Alvida;Brunytė;49812151174;user118@user.lt;+37060000118;"Ilgiausia g. 118, Vilnius";Brunius;Jogirdas;38903150118;862000118;parent118@parent.lt;"Ilgiausia g. 118, Vilnius"
+Rufina;Kubaitė;61912151152;2019-12-15;Erna;Kubaitė;49812151152;user119@user.lt;+37060000119;"Ilgiausia g. 119, Vilnius";Kubaitis;Vicius;38903150119;862000119;parent119@parent.lt;"Ilgiausia g. 119, Vilnius"
+Adelbertas;Ringelevičius;52001260002;2020-01-26;Vidymantas;Riekašius;38601150093;user1@user.lt;+37060000001;"Ilgiausia g. 1, Vilnius";;;;;;
+Fulgis;Vančys;52001260013;2020-01-26;Gytautas;Vėlius;38601150016;user2@user.lt;+37060000002;"Ilgiausia g. 2, Vilnius";;;;;;
+Tautvaldas;Kerelis;52001260024;2020-01-26;Pilėnas;Subelis;38601150060;user3@user.lt;+37060000003;"Ilgiausia g. 3, Vilnius";;;;;;
+Apolinarij;Ščerba;52001260035;2020-01-26;Vaigydas;Žaudzevičius;38601150038;user4@user.lt;+37060000004;"Ilgiausia g. 4, Vilnius";;;;;;
+Erminijus;Šmičius;52001260046;2020-01-26;Milgedas;Jakubielskas;38601150049;user5@user.lt;+37060000005;"Ilgiausia g. 5, Vilnius";;;;;;
+Norijus;Vaišas;52001260057;2020-01-26;Ignnatijus;Būtvilas;38601150005;user6@user.lt;+37060000006;"Ilgiausia g. 6, Vilnius";;;;;;
+Vytartas;Žvelgynas;52001260068;2020-01-26;Lengvinas;Vaišnoris;38601150053;user7@user.lt;+37060000007;"Ilgiausia g. 7, Vilnius";;;;;;
+Liūtas;Drabickas;52001260079;2020-01-26;Getautas;Bloškys;38601150027;user8@user.lt;+37060000008;"Ilgiausia g. 8, Vilnius";;;;;;
+Bertas;Sirbikas;52001260083;2020-01-26;Voldis;Daukantis;38601150071;user9@user.lt;+37060000009;"Ilgiausia g. 9, Vilnius";;;;;;
+Apolionas;Grudzinas;52001260090;2020-01-26;Varonika;Žitinskytė;49402150113;user10@user.lt;+37060000010;"Ilgiausia g. 10, Vilnius";;;;;;
+Jokūb;Kraskus;52001260100;2020-01-26;Balanda;Gazevičytė;49402150120;user11@user.lt;+37060000011;"Ilgiausia g. 11, Vilnius";;;;;;
+Akvilas;Kvičius;52001260111;2020-01-26;Zigfrida;Gecaitė;49402150131;user12@user.lt;+37060000012;"Ilgiausia g. 12, Vilnius";;;;;;
+Linartas;Voitonis;52001260122;2020-01-26;Dija;Kmiliauskaitė;49402150109;user13@user.lt;+37060000013;"Ilgiausia g. 13, Vilnius";;;;;;
+Alvaras;Galvinys;52001260133;2020-01-26;Vince;Paraknavičytė;49402150175;user14@user.lt;+37060000014;"Ilgiausia g. 14, Vilnius";;;;;;
+Virgandas;Madastavičius;52001260144;2020-01-26;Jautrė;Norvilovytė;49402150186;user15@user.lt;+37060000015;"Ilgiausia g. 15, Vilnius";;;;;;
+Norgailas;Sejonas;52001260155;2020-01-26;Terėsė;Kratavičaitė;49402150153;user16@user.lt;+37060000016;"Ilgiausia g. 16, Vilnius";;;;;;
+Aušmantas;Astauskas;52001260166;2020-01-26;Jurgita;Čiegiūtė;49402150142;user17@user.lt;+37060000017;"Ilgiausia g. 17, Vilnius";;;;;;
+Klimentas;Zapleckas;52001260177;2020-01-26;Gertruda;Pipeniūtė;49402150164;user18@user.lt;+37060000018;"Ilgiausia g. 18, Vilnius";;;;;;
+Vydaugas;Juodgalvis;52001260188;2020-01-26;Arvina;Aniukevičiūtė;49402150197;user19@user.lt;+37060000019;"Ilgiausia g. 19, Vilnius";;;;;;
+Demetris;Kubertas;52001260199;2020-01-26;Rimantis;Damaševičius;38603150255;user20@user.lt;+37060000020;"Ilgiausia g. 20, Vilnius";;;;;;
+Bolys;Pulkys;52001260209;2020-01-26;Galius;Jarošius;38603150233;user21@user.lt;+37060000021;"Ilgiausia g. 21, Vilnius";;;;;;
+Rišardas;Buzėnas;52001260218;2020-01-26;Arymantas;Pernovas;38603150222;user22@user.lt;+37060000022;"Ilgiausia g. 22, Vilnius";;;;;;
+Diodoras;Plešonis;52001260220;2020-01-26;Kantvilas;Ardauskas;38603150200;user23@user.lt;+37060000023;"Ilgiausia g. 23, Vilnius";;;;;;
+Tedas;Piniukas;52001260231;2020-01-26;Vinantas;Diedonis;38603150299;user24@user.lt;+37060000024;"Ilgiausia g. 24, Vilnius";;;;;;
+Julianas;Titušas;52001260242;2020-01-26;Platonas;Sieliava;38603150277;user25@user.lt;+37060000025;"Ilgiausia g. 25, Vilnius";;;;;;
+Mažrimas;Pekša;52001260253;2020-01-26;Kipras;Polinauskas;38603150288;user26@user.lt;+37060000026;"Ilgiausia g. 26, Vilnius";;;;;;
+Aduolius;Kildžisas;52001260264;2020-01-26;Marcelius;Bruneikis;38603150266;user27@user.lt;+37060000027;"Ilgiausia g. 27, Vilnius";;;;;;
+Simeonas;Grilis;52001260275;2020-01-26;Laimius;Rudkevičius;38603150244;user28@user.lt;+37060000028;"Ilgiausia g. 28, Vilnius";;;;;;
+Gedvidas;Nabažas;52001260286;2020-01-26;Iminas;Ščerbavičius;38603150211;user29@user.lt;+37060000029;"Ilgiausia g. 29, Vilnius";;;;;;
+Venius;Tadarauskas;52001260297;2020-01-26;Gilvilė;Rolaitė;49404150363;user30@user.lt;+37060000030;"Ilgiausia g. 30, Vilnius";;;;;;
+Emilas;Mamkaitis;52001260307;2020-01-26;Ladislava;Rabcevičaitė;49404150315;user31@user.lt;+37060000031;"Ilgiausia g. 31, Vilnius";;;;;;
+Leinartas;Kasparavičius;52001260318;2020-01-26;Levonida;Mielutytė;49404150304;user32@user.lt;+37060000032;"Ilgiausia g. 32, Vilnius";;;;;;
+Elmanas;Zalepūgas;52001260329;2020-01-26;Nadžija;Večkytė;49404150337;user33@user.lt;+37060000033;"Ilgiausia g. 33, Vilnius";;;;;;
+Sandaras;Oškonis;52001260335;2020-01-26;Minte;Daminevskiūtė;49404150359;user34@user.lt;+37060000034;"Ilgiausia g. 34, Vilnius";;;;;;
+Florentijus;Kyliavas;52001260340;2020-01-26;Almanė;Izėnaitė;49404150381;user35@user.lt;+37060000035;"Ilgiausia g. 35, Vilnius";;;;;;
+Napoleonas;Bėta;52001260351;2020-01-26;Saugė;Tuntaitė;49404150348;user36@user.lt;+37060000036;"Ilgiausia g. 36, Vilnius";;;;;;
+Vilmantas;Bylaitis;52001260362;2020-01-26;Jolanta;Cesiulytė;49404150392;user37@user.lt;+37060000037;"Ilgiausia g. 37, Vilnius";;;;;;
+Eligius;Stačiokas;52001260373;2020-01-26;Samuela;Zienkaitė;49404150370;user38@user.lt;+37060000038;"Ilgiausia g. 38, Vilnius";;;;;;
+Jevgenijus;Ropša;52001260384;2020-01-26;Milgintė;Krevaldaitė;49404150326;user39@user.lt;+37060000039;"Ilgiausia g. 39, Vilnius";;;;;;
+Mečislov;Voldmanas;52001260395;2020-01-26;Alfonsas;Drinauskis;38605150417;user40@user.lt;+37060000040;"Ilgiausia g. 40, Vilnius";;;;;;
+Eustafijus;Stulpius;52001260405;2020-01-26;Vytalijus;Pržialgauskas;38605150483;user41@user.lt;+37060000041;"Ilgiausia g. 41, Vilnius";;;;;;
+Limantas;Teisingas;52001260416;2020-01-26;Galminas;Dygymas;38605150461;user42@user.lt;+37060000042;"Ilgiausia g. 42, Vilnius";;;;;;
+Girvinas;Patūpa;52001260427;2020-01-26;Lauris;Pūpelis;38605150494;user43@user.lt;+37060000043;"Ilgiausia g. 43, Vilnius";;;;;;
+Tauragis;Deičas;52001260438;2020-01-26;Radulfas;Grodeikis;38605150472;user44@user.lt;+37060000044;"Ilgiausia g. 44, Vilnius";;;;;;
+Venantas;Bernadickas;52001260449;2020-01-26;Trifonas;Svila;38605150450;user45@user.lt;+37060000045;"Ilgiausia g. 45, Vilnius";;;;;;
+Benis;Čečys;52001260452;2020-01-26;Gedeiminas;Kveselevičius;38605150406;user46@user.lt;+37060000046;"Ilgiausia g. 46, Vilnius";;;;;;
+Kantautas;Akromavičius;52001260460;2020-01-26;Geitvydas;Zykus;38605150443;user47@user.lt;+37060000047;"Ilgiausia g. 47, Vilnius";;;;;;
+Konradas;Kergė;52001260471;2020-01-26;Mečius;Navackas;38605150428;user48@user.lt;+37060000048;"Ilgiausia g. 48, Vilnius";;;;;;
+Rimdaugas;Prendzelis;52001260482;2020-01-26;Eivis;Vapšys;38605150439;user49@user.lt;+37060000049;"Ilgiausia g. 49, Vilnius";;;;;;
+Enėjas;Sandas;52001260493;2020-01-26;Zene;Kerbėlytė;49406150587;user50@user.lt;+37060000050;"Ilgiausia g. 50, Vilnius";;;;;;
+Evijus;Miecevičius;52001260503;2020-01-26;Laisvida;Apčinskiūtė;49406150503;user51@user.lt;+37060000051;"Ilgiausia g. 51, Vilnius";;;;;;
+Kaspar;Karsakas;52001260514;2020-01-26;Janislava;Kūlokytė;49406150598;user52@user.lt;+37060000052;"Ilgiausia g. 52, Vilnius";;;;;;
+Dangirijus;Juškauskas;52001260525;2020-01-26;Verdženija;Skadiniūtė;49406150521;user53@user.lt;+37060000053;"Ilgiausia g. 53, Vilnius";;;;;;
+Tauris;Scinskas;52001260536;2020-01-26;Bytautė;Četvergaitė;49406150576;user54@user.lt;+37060000054;"Ilgiausia g. 54, Vilnius";;;;;;
+Jevgėnijus;Čėčys-kruškys;52001260547;2020-01-26;Tolminė;Liupševičytė;49406150554;user55@user.lt;+37060000055;"Ilgiausia g. 55, Vilnius";;;;;;
+Nelis;Reveltis;52001260558;2020-01-26;Uljanija;Zalubaitė;49406150543;user56@user.lt;+37060000056;"Ilgiausia g. 56, Vilnius";;;;;;
+Ligmantas;Parokas;52001260570;2020-01-26;Oktavija;Kirklys-masiokiūtė;49406150532;user57@user.lt;+37060000057;"Ilgiausia g. 57, Vilnius";;;;;;
+Žadvydas;Kiškėnas;52001260569;2020-01-26;Jurgė;Ledytė;49406150565;user58@user.lt;+37060000058;"Ilgiausia g. 58, Vilnius";;;;;;
+Izraelis;Vinča;52001260580;2020-01-26;Rufina;Norvaišiūtė;49406150510;user59@user.lt;+37060000059;"Ilgiausia g. 59, Vilnius";;;;;;
+Mečis;Šlopšna;52001260591;2020-01-26;Rusnis;Nanevičius;38807150654;user60@user.lt;+37060000060;"Ilgiausia g. 60, Vilnius";;;;;;
+Eigminas;Sudeikas;52001260601;2020-01-26;Girmintas;Liakerauskas;38807150687;user61@user.lt;+37060000061;"Ilgiausia g. 61, Vilnius";;;;;;
+Kajetonas;Guščinas;52001260612;2020-01-26;Gitavtas;Brilinkevičius;38807150665;user62@user.lt;+37060000062;"Ilgiausia g. 62, Vilnius";;;;;;
+Vygmantas;Jaigeris;52001260623;2020-01-26;Kornelis;Bloziukas;38807150698;user63@user.lt;+37060000063;"Ilgiausia g. 63, Vilnius";;;;;;
+Vaidaras;Aleknius;52001260634;2020-01-26;Gaivis;Lukševičius;38807150643;user64@user.lt;+37060000064;"Ilgiausia g. 64, Vilnius";;;;;;
+Gedartas;Šiltulis;52001260645;2020-01-26;Patrik;Spuris;38807150632;user65@user.lt;+37060000065;"Ilgiausia g. 65, Vilnius";;;;;;
+Santaras;Gašpuitis;52001260656;2020-01-26;Polius;Marusevičius;38807150621;user66@user.lt;+37060000066;"Ilgiausia g. 66, Vilnius";;;;;;
+Anijus;Sadūnas;52001260667;2020-01-26;Jorigis;Goreika;38807150602;user67@user.lt;+37060000067;"Ilgiausia g. 67, Vilnius";;;;;;
+Zenas;Žagarius;52001260678;2020-01-26;Elbertas;Spudys;38807150676;user68@user.lt;+37060000068;"Ilgiausia g. 68, Vilnius";;;;;;
+Arvinas;Brunaitis;52001260689;2020-01-26;Jonas;Grizickas;38807150610;user69@user.lt;+37060000069;"Ilgiausia g. 69, Vilnius";;;;;;
+Jakūbas;Lansbergis;52001260697;2020-01-26;Adolaida;Zabalavičiūtė;49808150772;user70@user.lt;+37060000070;"Ilgiausia g. 70, Vilnius";;;;;;
+Laimantas;Megelinskas;52001260704;2020-01-26;Juvencija;Terekas-malinaskytė;49808150769;user71@user.lt;+37060000071;"Ilgiausia g. 71, Vilnius";;;;;;
+Meilius;Langeris;52001260710;2020-01-26;Sanga;Maziliauskaitė;49808150758;user72@user.lt;+37060000072;"Ilgiausia g. 72, Vilnius";;;;;;
+Gertvydas;Skystimas;52001260721;2020-01-26;Gracija;Ušauskaitė;49808150747;user73@user.lt;+37060000073;"Ilgiausia g. 73, Vilnius";;;;;;
+Arvids;Stušinskis;52001260732;2020-01-26;Laimantė;Palapaitė;49808150780;user74@user.lt;+37060000074;"Ilgiausia g. 74, Vilnius";;;;;;
+Naglijus;Baravičius;52001260743;2020-01-26;Penelopė;Eiseniūtė;49808150714;user75@user.lt;+37060000075;"Ilgiausia g. 75, Vilnius";;;;;;
+Auksius;Plytninkas;52001260754;2020-01-26;Eolelija;Žirliūtė;49808150791;user76@user.lt;+37060000076;"Ilgiausia g. 76, Vilnius";;;;;;
+Butautas;Audinys;52001260765;2020-01-26;Deivydė;Sajinskiūtė;49808150725;user77@user.lt;+37060000077;"Ilgiausia g. 77, Vilnius";;;;;;
+Meldas;Lekauzas;52001260776;2020-01-26;Genija;Paškevičiūtė;49808150736;user78@user.lt;+37060000078;"Ilgiausia g. 78, Vilnius";;;;;;
+Geidas;Žardeckas;52001260787;2020-01-26;Adelia;Zviravičaitė;49808150703;user79@user.lt;+37060000079;"Ilgiausia g. 79, Vilnius";;;;;;
+Žadvidas;Senkaitis;52001260798;2020-01-26;Mantvilas;Taseckas;38809150860;user80@user.lt;+37060000080;"Ilgiausia g. 80, Vilnius";;;;;;
+Vidvydas;Cerkus;52001260808;2020-01-26;Naras;Dėdynas;38809150852;user81@user.lt;+37060000081;"Ilgiausia g. 81, Vilnius";;;;;;
+Gendras;Imbrichšis;52001260819;2020-01-26;Alvis;Kavoliukas;38809150893;user82@user.lt;+37060000082;"Ilgiausia g. 82, Vilnius";;;;;;
+Afonijus;Pulminskas;52001260821;2020-01-26;Alginas;Karlys;38809150849;user83@user.lt;+37060000083;"Ilgiausia g. 83, Vilnius";;;;;;
+Virmantas;Margaitis;52001260830;2020-01-26;Vaidrimas;Budzinskas;38809150816;user84@user.lt;+37060000084;"Ilgiausia g. 84, Vilnius";;;;;;
+Helius;Mėsonis;52001260841;2020-01-26;Gaudvydas;Vitkelis;38809150871;user85@user.lt;+37060000085;"Ilgiausia g. 85, Vilnius";;;;;;
+Pranis;Čirbulys;52001260852;2020-01-26;Joviltas;Bildunkevičius;38809150838;user86@user.lt;+37060000086;"Ilgiausia g. 86, Vilnius";;;;;;
+Salvinijus;Bronislauskas;52001260863;2020-01-26;Ildefons;Karlonis;38809150827;user87@user.lt;+37060000087;"Ilgiausia g. 87, Vilnius";;;;;;
+Evtichijus;Simanynas;52001260874;2020-01-26;Jotvis;Smardakauskas;38809150882;user88@user.lt;+37060000088;"Ilgiausia g. 88, Vilnius";;;;;;
+Vygimantas;Muškotas;52001260885;2020-01-26;Mečislavas;Šolkauskas;38809150805;user89@user.lt;+37060000089;"Ilgiausia g. 89, Vilnius";;;;;;
+Radoslovas;Pilatauskas;52001260896;2020-01-26;Celestė;Zenteriūtė;49810150930;user90@user.lt;+37060000090;"Ilgiausia g. 90, Vilnius";;;;;;
+Vintaras;Jauneika;52001260906;2020-01-26;Vylma;Ruškytė;49810150995;user91@user.lt;+37060000091;"Ilgiausia g. 91, Vilnius";;;;;;
+Apolinaras;Grigis;52001260917;2020-01-26;Armilė;Pastalaitė;49810150984;user92@user.lt;+37060000092;"Ilgiausia g. 92, Vilnius";;;;;;
+Vidiminas;Melichauskas;52001260928;2020-01-26;Irtė;Kiaulakiūtė;49810150951;user93@user.lt;+37060000093;"Ilgiausia g. 93, Vilnius";;;;;;
+Alvirdas;Milkontas;52001260939;2020-01-26;Ilitija;Gruševskiūtė;49810150940;user94@user.lt;+37060000094;"Ilgiausia g. 94, Vilnius";;;;;;
+Edmas;Ščesnavičius;52001260950;2020-01-26;Stefanija;Miliuševičaitė;49810150929;user95@user.lt;+37060000095;"Ilgiausia g. 95, Vilnius";;;;;;
+Ignis;Karanauskas;52001260949;2020-01-26;Chonija;Andrešūniūtė;49810150962;user96@user.lt;+37060000096;"Ilgiausia g. 96, Vilnius";;;;;;
+Kenetas;Angelis;52001260961;2020-01-26;Algimantė;Berkaitė;49810150907;user97@user.lt;+37060000097;"Ilgiausia g. 97, Vilnius";;;;;;
+Denisijus;Freitelis;52001260972;2020-01-26;Domnikija;Ciganaitytė;49810150918;user98@user.lt;+37060000098;"Ilgiausia g. 98, Vilnius";;;;;;
+Ramunis;Klebaris;52001260983;2020-01-26;Vingėla;Čeilydkytė;49810150973;user99@user.lt;+37060000099;"Ilgiausia g. 99, Vilnius";;;;;;
+Emilijonas;Backūnas;52001260994;2020-01-26;Pijus;Atroška;38811151066;user100@user.lt;+37060000100;"Ilgiausia g. 100, Vilnius";;;;;;
+Rudolfas;Liabrikas;52001261002;2020-01-26;Eigimantas;Jankaitis;38811151048;user101@user.lt;+37060000101;"Ilgiausia g. 101, Vilnius";;;;;;
+Tumas;Dulėba;52001261010;2020-01-26;Laurent;Skaldinas;38811151037;user102@user.lt;+37060000102;"Ilgiausia g. 102, Vilnius";;;;;;
+Vytalius;Ambrulis;52001261021;2020-01-26;Einius;Makauskas;38811151026;user103@user.lt;+37060000103;"Ilgiausia g. 103, Vilnius";;;;;;
+Rinas;Škudkauskas;52001261032;2020-01-26;Genis;Strepeika;38811151004;user104@user.lt;+37060000104;"Ilgiausia g. 104, Vilnius";;;;;;
+Skomantas;Dulkys;52001261043;2020-01-26;Vygis;Jaselionis;38811151015;user105@user.lt;+37060000105;"Ilgiausia g. 105, Vilnius";;;;;;
+Joanis;Sčensnavičius;52001261054;2020-01-26;Rimbertas;Voičešonokas;38811151081;user106@user.lt;+37060000106;"Ilgiausia g. 106, Vilnius";;;;;;
+Baltras;Ambroža;52001261065;2020-01-26;Augminas;Nikolskis;38811151059;user107@user.lt;+37060000107;"Ilgiausia g. 107, Vilnius";;;;;;
+Robertas;Lindemanas;52001261076;2020-01-26;Emis;Baltrimas;38811151092;user108@user.lt;+37060000108;"Ilgiausia g. 108, Vilnius";;;;;;
+Samuelas;Putys;52001261087;2020-01-26;Viktoras;Bautaitis;38811151070;user109@user.lt;+37060000109;"Ilgiausia g. 109, Vilnius";;;;;;
+Rikantas;Janužas;52001261098;2020-01-26;Ida;Macinavičaitė;49812151119;user110@user.lt;+37060000110;"Ilgiausia g. 110, Vilnius";;;;;;
+Eidimtas;Stopelis;52001261108;2020-01-26;Chabronija;Kalickytė;49812151196;user111@user.lt;+37060000111;"Ilgiausia g. 111, Vilnius";;;;;;
+Laurentas;Kaleckas;52001261120;2020-01-26;Ksavera;Kurpavičytė;49812151185;user112@user.lt;+37060000112;"Ilgiausia g. 112, Vilnius";;;;;;
+Jevsevijus;Taraila;52001261119;2020-01-26;Ala;Muntrimaitė;49812151163;user113@user.lt;+37060000113;"Ilgiausia g. 113, Vilnius";;;;;;
+Tonis;Slavikauskas;52001261130;2020-01-26;Birutėlė;Šmeigauskaitė;49812151130;user114@user.lt;+37060000114;"Ilgiausia g. 114, Vilnius";;;;;;
+Vidmantis;Raveikis;52001261141;2020-01-26;Juozapė;Grakovičaitė;49812151108;user115@user.lt;+37060000115;"Ilgiausia g. 115, Vilnius";;;;;;
+Fortūnatas;Mačeikonis;52001261152;2020-01-26;Norgilė;Paresčiūtė;49812151141;user116@user.lt;+37060000116;"Ilgiausia g. 116, Vilnius";;;;;;
+Izocijus;Krūmaitis;52001261163;2020-01-26;Virgailė;Tumiūtė;49812151126;user117@user.lt;+37060000117;"Ilgiausia g. 117, Vilnius";;;;;;
+Napoleon;Lovčikas;52001261174;2020-01-26;Alvida;Brunytė;49812151174;user118@user.lt;+37060000118;"Ilgiausia g. 118, Vilnius";;;;;;
+Eduartas;Čupila;52001261185;2020-01-26;Erna;Kubaitė;49812151152;user119@user.lt;+37060000119;"Ilgiausia g. 119, Vilnius";;;;;;
+Laisvyda;Vieštautytė;61709260007;2017-09-26;Vidymantas;Riekašius;38601150093;user1@user.lt;+37060000001;"Ilgiausia g. 1, Vilnius";;;;;;
+Gėma;Počiupytė;61709260018;2017-09-26;Gytautas;Vėlius;38601150016;user2@user.lt;+37060000002;"Ilgiausia g. 2, Vilnius";;;;;;
+Ogidija;Putauskytė;61709260031;2017-09-26;Pilėnas;Subelis;38601150060;user3@user.lt;+37060000003;"Ilgiausia g. 3, Vilnius";;;;;;
+Jepistinija;Mikantavičytė;61709260040;2017-09-26;Vaigydas;Žaudzevičius;38601150038;user4@user.lt;+37060000004;"Ilgiausia g. 4, Vilnius";;;;;;
+Jefrosenija;Leiziūtė;61709260084;2017-09-26;Milgedas;Jakubielskas;38601150049;user5@user.lt;+37060000005;"Ilgiausia g. 5, Vilnius";;;;;;
+Orentija;Ausenytė;61709260095;2017-09-26;Ignnatijus;Būtvilas;38601150005;user6@user.lt;+37060000006;"Ilgiausia g. 6, Vilnius";;;;;;
+Gendrūda;Arlauskiūtė;61709260062;2017-09-26;Lengvinas;Vaišnoris;38601150053;user7@user.lt;+37060000007;"Ilgiausia g. 7, Vilnius";;;;;;
+Veridiana;Paliūšiūtė;61709260073;2017-09-26;Getautas;Bloškys;38601150027;user8@user.lt;+37060000008;"Ilgiausia g. 8, Vilnius";;;;;;
+Vilnija;Loliūtė;61709260051;2017-09-26;Voldis;Daukantis;38601150071;user9@user.lt;+37060000009;"Ilgiausia g. 9, Vilnius";;;;;;
+Daugilė;Pajerskytė;61709260029;2017-09-26;Varonika;Žitinskytė;49402150113;user10@user.lt;+37060000010;"Ilgiausia g. 10, Vilnius";;;;;;
+Ovilija;Kapačiūnaitė;61709260105;2017-09-26;Balanda;Gazevičytė;49402150120;user11@user.lt;+37060000011;"Ilgiausia g. 11, Vilnius";;;;;;
+Teofilija;Lulisytė;61709260116;2017-09-26;Zigfrida;Gecaitė;49402150131;user12@user.lt;+37060000012;"Ilgiausia g. 12, Vilnius";;;;;;
+Prančiška;Telejūniūtė;61709260127;2017-09-26;Dija;Kmiliauskaitė;49402150109;user13@user.lt;+37060000013;"Ilgiausia g. 13, Vilnius";;;;;;
+Vladė;Stričaitė;61709260138;2017-09-26;Vince;Paraknavičytė;49402150175;user14@user.lt;+37060000014;"Ilgiausia g. 14, Vilnius";;;;;;
+Kaya;Koveraitė;61709260149;2017-09-26;Jautrė;Norvilovytė;49402150186;user15@user.lt;+37060000015;"Ilgiausia g. 15, Vilnius";;;;;;
+Norgailė;Goscevičiūtė;61709260159;2017-09-26;Terėsė;Kratavičaitė;49402150153;user16@user.lt;+37060000016;"Ilgiausia g. 16, Vilnius";;;;;;
+Norvida;Ikasalytė;61709260160;2017-09-26;Jurgita;Čiegiūtė;49402150142;user17@user.lt;+37060000017;"Ilgiausia g. 17, Vilnius";;;;;;
+Dautarė;Ambrazaitė;61709260171;2017-09-26;Gertruda;Pipeniūtė;49402150164;user18@user.lt;+37060000018;"Ilgiausia g. 18, Vilnius";;;;;;
+Ilzė;Pulkausnikiūtė;61709260182;2017-09-26;Arvina;Aniukevičiūtė;49402150197;user19@user.lt;+37060000019;"Ilgiausia g. 19, Vilnius";;;;;;
+Afimija;Mužikauskaitė;61709260193;2017-09-26;Rimantis;Damaševičius;38603150255;user20@user.lt;+37060000020;"Ilgiausia g. 20, Vilnius";;;;;;
+Karigailė;Ažalionaitė;61709260214;2017-09-26;Galius;Jarošius;38603150233;user21@user.lt;+37060000021;"Ilgiausia g. 21, Vilnius";;;;;;
+Bona;Sabeikiūtė;61709260225;2017-09-26;Arymantas;Pernovas;38603150222;user22@user.lt;+37060000022;"Ilgiausia g. 22, Vilnius";;;;;;
+Augmilė;Mazalauskaitė;61709260236;2017-09-26;Kantvilas;Ardauskas;38603150200;user23@user.lt;+37060000023;"Ilgiausia g. 23, Vilnius";;;;;;
+Emiilija;Ledauskytė;61709260247;2017-09-26;Vinantas;Diedonis;38603150299;user24@user.lt;+37060000024;"Ilgiausia g. 24, Vilnius";;;;;;
+Upyna;Dakniūtė;61709260280;2017-09-26;Platonas;Sieliava;38603150277;user25@user.lt;+37060000025;"Ilgiausia g. 25, Vilnius";;;;;;
+Dane;Bičiūtė;61709260291;2017-09-26;Kipras;Polinauskas;38603150288;user26@user.lt;+37060000026;"Ilgiausia g. 26, Vilnius";;;;;;
+Violeta;Štrumkaitė;61709260258;2017-09-26;Marcelius;Bruneikis;38603150266;user27@user.lt;+37060000027;"Ilgiausia g. 27, Vilnius";;;;;;
+Lenė;Šukštulytė;61709260269;2017-09-26;Laimius;Rudkevičius;38603150244;user28@user.lt;+37060000028;"Ilgiausia g. 28, Vilnius";;;;;;
+Lukėrija;Tarailiūtė;61709260276;2017-09-26;Iminas;Ščerbavičius;38603150211;user29@user.lt;+37060000029;"Ilgiausia g. 29, Vilnius";;;;;;
+Narimanta;Grygytė;61709260203;2017-09-26;Gilvilė;Rolaitė;49404150363;user30@user.lt;+37060000030;"Ilgiausia g. 30, Vilnius";;;;;;
+Ekvilija;Duseikytė;61709260301;2017-09-26;Ladislava;Rabcevičaitė;49404150315;user31@user.lt;+37060000031;"Ilgiausia g. 31, Vilnius";;;;;;
+Venancija;Vavžinavičytė;61709260312;2017-09-26;Levonida;Mielutytė;49404150304;user32@user.lt;+37060000032;"Ilgiausia g. 32, Vilnius";;;;;;
+Marijona;Kuodžaitė;61709260323;2017-09-26;Nadžija;Večkytė;49404150337;user33@user.lt;+37060000033;"Ilgiausia g. 33, Vilnius";;;;;;
+Judrė;Šuflaitė;61709260334;2017-09-26;Minte;Daminevskiūtė;49404150359;user34@user.lt;+37060000034;"Ilgiausia g. 34, Vilnius";;;;;;
+Ginvyda;Kovaliukiūtė;61709260345;2017-09-26;Almanė;Izėnaitė;49404150381;user35@user.lt;+37060000035;"Ilgiausia g. 35, Vilnius";;;;;;
+Magdelena;Kasiulevičiūtė;61709260356;2017-09-26;Saugė;Tuntaitė;49404150348;user36@user.lt;+37060000036;"Ilgiausia g. 36, Vilnius";;;;;;
+Laiminta;Biržiūtė;61709260367;2017-09-26;Jolanta;Cesiulytė;49404150392;user37@user.lt;+37060000037;"Ilgiausia g. 37, Vilnius";;;;;;
+Sindija;Brockiūtė;61709260393;2017-09-26;Samuela;Zienkaitė;49404150370;user38@user.lt;+37060000038;"Ilgiausia g. 38, Vilnius";;;;;;
+Afemija;Stavytė;61709260389;2017-09-26;Milgintė;Krevaldaitė;49404150326;user39@user.lt;+37060000039;"Ilgiausia g. 39, Vilnius";;;;;;
+Gedimina;Greblauskiūtė;61709260378;2017-09-26;Alfonsas;Drinauskis;38605150417;user40@user.lt;+37060000040;"Ilgiausia g. 40, Vilnius";;;;;;
+Irėna;Matiekaitaitė;61709260400;2017-09-26;Vytalijus;Pržialgauskas;38605150483;user41@user.lt;+37060000041;"Ilgiausia g. 41, Vilnius";;;;;;
+Gytė;Lišauskytė;61709260410;2017-09-26;Galminas;Dygymas;38605150461;user42@user.lt;+37060000042;"Ilgiausia g. 42, Vilnius";;;;;;
+Daumantė;Ožkeliūtė;61709260421;2017-09-26;Lauris;Pūpelis;38605150494;user43@user.lt;+37060000043;"Ilgiausia g. 43, Vilnius";;;;;;
+Žintautė;Kašlaitė;61709260432;2017-09-26;Radulfas;Grodeikis;38605150472;user44@user.lt;+37060000044;"Ilgiausia g. 44, Vilnius";;;;;;
+Iulija;Skrebaitė;61709260443;2017-09-26;Trifonas;Svila;38605150450;user45@user.lt;+37060000045;"Ilgiausia g. 45, Vilnius";;;;;;
+Epraksija;Knizikevičiūtė;61709260454;2017-09-26;Gedeiminas;Kveselevičius;38605150406;user46@user.lt;+37060000046;"Ilgiausia g. 46, Vilnius";;;;;;
+Scholė;Jurgevičytė;61709260465;2017-09-26;Geitvydas;Zykus;38605150443;user47@user.lt;+37060000047;"Ilgiausia g. 47, Vilnius";;;;;;
+Polė;Kralėdaitė;61709260476;2017-09-26;Mečius;Navackas;38605150428;user48@user.lt;+37060000048;"Ilgiausia g. 48, Vilnius";;;;;;
+Viltis;Kongelaitė;61709260498;2017-09-26;Eivis;Vapšys;38605150439;user49@user.lt;+37060000049;"Ilgiausia g. 49, Vilnius";;;;;;
+Liongina;Aleksejiūtė;61709260487;2017-09-26;Zene;Kerbėlytė;49406150587;user50@user.lt;+37060000050;"Ilgiausia g. 50, Vilnius";;;;;;
+Ramvydė;Valenčiūtė;61709260508;2017-09-26;Laisvida;Apčinskiūtė;49406150503;user51@user.lt;+37060000051;"Ilgiausia g. 51, Vilnius";;;;;;
+Elvija;Maženiūtė;61709260596;2017-09-26;Janislava;Kūlokytė;49406150598;user52@user.lt;+37060000052;"Ilgiausia g. 52, Vilnius";;;;;;
+Aiginta;Zemitytė;61709260519;2017-09-26;Verdženija;Skadiniūtė;49406150521;user53@user.lt;+37060000053;"Ilgiausia g. 53, Vilnius";;;;;;
+Gena;Urbanskiūtė;61709260528;2017-09-26;Bytautė;Četvergaitė;49406150576;user54@user.lt;+37060000054;"Ilgiausia g. 54, Vilnius";;;;;;
+Minvydė;Barzdukytė;61709260530;2017-09-26;Tolminė;Liupševičytė;49406150554;user55@user.lt;+37060000055;"Ilgiausia g. 55, Vilnius";;;;;;
+Darata;Šepelevskytė;61709260541;2017-09-26;Uljanija;Zalubaitė;49406150543;user56@user.lt;+37060000056;"Ilgiausia g. 56, Vilnius";;;;;;
+Gaudrimė;Balutaitė;61709260552;2017-09-26;Oktavija;Kirklys-masiokiūtė;49406150532;user57@user.lt;+37060000057;"Ilgiausia g. 57, Vilnius";;;;;;
+Tesė;Zakarevičaitė;61709260563;2017-09-26;Jurgė;Ledytė;49406150565;user58@user.lt;+37060000058;"Ilgiausia g. 58, Vilnius";;;;;;
+Dainora;Didorytė;61709260574;2017-09-26;Rufina;Norvaišiūtė;49406150510;user59@user.lt;+37060000059;"Ilgiausia g. 59, Vilnius";;;;;;
+Algvina;Liegiūtė;61709260585;2017-09-26;Rusnis;Nanevičius;38807150654;user60@user.lt;+37060000060;"Ilgiausia g. 60, Vilnius";;;;;;

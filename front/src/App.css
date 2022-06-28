@@ -1,0 +1,204 @@
+.App {
+  text-align: center;
+}
+
+.fieldRequired {
+  color: red;
+  text-transform: uppercase;
+  font-size: 12px;
+  font-weight: bold;
+  vertical-align: text-top;
+}
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+}
+
+.card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+.nav-img {
+  max-width: 18rem;
+  width: 100%;
+  height: 100%;
+}
+
+.no-top-border th {
+  border: none;
+}
+
+/* #capacityAgeGroup2to3 {
+  text-align: center;
+}
+
+#capacityAgeGroup3to6 {
+  text-align: center;
+} */
+
+.swal-button--confirm {
+  background-color:#007bff;
+}
+
+
+/* Neveikia font-size: em */
+.swal-text {
+  font-size: 16px;
+  color: #000;
+  text-align: center;
+}
+
+.form-control {
+  font-size: 0.875rem;
+}
+
+.form-group, .row {
+  font-size: 0.875rem;
+}
+
+.table {
+  font-size: 0.875rem;
+  
+}
+
+.pb-3, .py-3 {
+  font-size: 1rem;
+}
+
+p {
+  font-size: 0.875rem;
+}
+
+.navbar-light.navbar-nav.nav-link.active{
+  font-size:1rem;
+}
+
+.deleteColumn {
+  width: 11%;
+}
+
+.formHeader {
+  padding-top: 4%;
+}
+
+a.#navInstructions.nav-link {
+  background-color: #ffc107;
+}
+
+/* Bootstrap 4 -> 5 changes */
+
+a, .btn-link {
+  text-decoration: none;
+}
+
+a:hover, .btn-link:hover {
+  text-decoration: underline;
+}
+
+.btn-block {
+  display: block;
+  width: 100%;
+}
+
+/* Tables */
+
+.table-header {
+  width: fit-content;
+  height: fit-content;
+  margin: 0;
+  padding: 0;
+}
+
+.vertical-label {
+  writing-mode: vertical-rl;
+  transform: rotate(180deg);
+  white-space: nowrap;
+}
+
+.table-header:after, .table-header:before {
+  box-sizing: border-box;
+}
+
+/* Table row background color */
+
+.background-green {
+  background-color:  #D8ED96;
+}
+
+.background-red {
+  background-color: rgba(240, 128, 128, 0.5);
+}
+
+/* Map */
+
+.map-view-container {
+  width: 100%;
+  height: 80vh;
+}
+
+.application-map-container {
+  width: 100%;
+  height: 100%;
+  min-height: 500px;
+  padding-top: 4%;
+}
+
+.leaflet-container {
+  width: 100%;
+  height: 100%;
+}
+
+.mano-vieta-button {
+  position: absolute;
+  z-index: 801;
+  top: 0px;
+  right: 0px;
+  margin: 12px;
+  border-radius: 2px;
+  height: 30px;
+  display: flex;
+  align-items:center;
+  justify-items: center;
+  padding: 0 10px;
+  background-color: white;
+  outline: 2px solid rgba(0,0,0,0.2);
+  font-weight: 600;
+}
+
+.selectKindergarten {
+  z-index: 2000;
+}
+
+/* User Application page */
+
+.navigation-button {
+  width: 100%;
+}
+
+.green-background:disabled {
+  background-color: lightgreen;
+}
+
+.application-form-header {
+  height: 50px;
+}
+
+/* No Breaks */
+
+.no-breaks {
+  white-space: nowrap;
+}
+
+.max-width {
+  max-width: 98%;
+}
+
+/* Date Picker */
+
+.react-datepicker__input-container {
+  width: inherit;
+}
+
+.react-datepicker-wrapper {
+  width: 100%;
+}
