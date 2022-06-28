@@ -23,11 +23,9 @@ if (Test-Path -Path $LOC'\'$NAME) {
 	git fetch --all
 	git pull
 } else {
-	mkdir $NAME
-	cd $NAME
     "cloning repo to selected location"
-	git clone $GIT
-	cd $NAME	
+	git clone $GIT $NAME
+	cd $NAME
 }
 
 # if there is a problem with gui - edit endpoint.js
