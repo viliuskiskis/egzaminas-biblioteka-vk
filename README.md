@@ -4,8 +4,8 @@ System user roles and their authorities:
 
 | ROLES | AUTHORITIES |
 | --- | --- |
-| ADMIN |  create user, delete user, reset user password, lock application queue editing for manager, review system logs, update own account |
-| USER | submit an application and compensation application (if not locked by manager), download application pdf, review applications and their status, submit/ review pdf documents, delete application, get user data, update and delete own account, preview kindergartens on map |
+| ADMIN |  add/edit/remove book category; add/edit/remove a book 
+| USER | search for a book, reserve it if it is available, add book to favourites |
 
 #### Technologies used: 
 - React 17.0.1,  Boostrap 5.1.3
