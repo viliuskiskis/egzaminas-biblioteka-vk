@@ -2,10 +2,31 @@
 #	Save as *.ps1, edit variables so suit you
 #	run script from Terminal (powershell should be v7.x) for git operations
 
+#					CONFIG:
+# Edit to select local location for repository
+$LOC = "$home\Desktop"
+# Edit to change remot repository
+$GIT = "git@github.com:viliuskiskis/egzaminas-biblioteka-vk.git"
+# Edit to change active branch
+$BRANCH = "master"
+# Repo name
+$NAME = "egzaminas-biblioteka-vk"
+# Edit to change active commit - if needed - uncomment necessary code below
+#$COMMIT = "891f7fd48ee88106ed033319cf79b5eb1b2a0dd1"
+
+Set-Location $LOC
+
+if (Test-Path -Path $LOC'\'$NAME) {
+    "repo exists in selected location"
+	cd $NAME
 	git switch $BRANCH
 	git fetch --all
 	git pull
-
+} else {
+    "cloning repo to selected location"
+	git clone $GIT
+	cd $NAME	
+}
 
 # if there is a problem with gui - edit endpoint.js
 

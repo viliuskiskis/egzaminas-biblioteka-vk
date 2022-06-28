@@ -83,18 +83,18 @@ public class UserService implements UserDetailsService {
 	public void createUser(UserDTO userData) {
 		User newUser = new User();
 
-		if (userData.getRole().equals("USER")) {
-			ParentDetails details = new ParentDetails();
-			
-			details.setAddress(userData.getAddress());
-			details.setEmail(userData.getEmail());
-			details.setName(userData.getName());
-			details.setPersonalCode(userData.getPersonalCode());
-			details.setPhone(userData.getPhone());
-			details.setSurname(userData.getSurname());
-			
-			newUser.setParentDetails(details);
-		}
+		/*
+		 * if (userData.getRole().equals("USER")) { ParentDetails details = new
+		 * ParentDetails();
+		 * 
+		 * details.setAddress(userData.getAddress());
+		 * details.setEmail(userData.getEmail()); details.setName(userData.getName());
+		 * details.setPersonalCode(userData.getPersonalCode());
+		 * details.setPhone(userData.getPhone());
+		 * details.setSurname(userData.getSurname());
+		 * 
+		 * newUser.setParentDetails(details); }
+		 */
 
 		newUser.setName(userData.getName());
 		newUser.setSurname(userData.getSurname());

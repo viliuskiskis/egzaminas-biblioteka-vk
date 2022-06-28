@@ -39,7 +39,7 @@ public class FirstUser {
 					"manager@manager.lt", "manager@manager.lt");
 
 			userService.createUser(firstAdmin);
-			userService.createUser(firstUser);
+			//userService.createUser(firstUser);
 			userService.createUser(firstManager);
 
 		}
