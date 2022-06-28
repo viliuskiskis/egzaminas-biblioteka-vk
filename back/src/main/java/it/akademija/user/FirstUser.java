@@ -28,18 +28,18 @@ public class FirstUser {
 
 		if (userDao.findByRole(Role.ADMIN).size() == 0) {
 
-			UserDTO firstAdmin = new UserDTO("ADMIN", "admin", "admin", "admin@admin.lt", "admin@admin.lt",
-					"admin@admin.lt");
+			UserDTO firstAdmin = new UserDTO("ADMIN", "root", "root", "root@root.lt", "root@root.lt",
+					"root@root.lt");
 
-			/*
-			 * UserDTO firstUser = new UserDTO("USER", "user", "user", "12345678987", "Address 1", "+37061398876",
-					"user@user.lt", "user@user.lt", "user@user.lt");
-*/
-			UserDTO firstManager = new UserDTO("MANAGER", "manager", "manager", "manager@manager.lt",
-					"manager@manager.lt", "manager@manager.lt");
+			
+			UserDTO firstUser = new UserDTO("USER", "reader", "reader", "12345678987", "Address 1", "+37061398876",
+					"reader@ureader.lt", "reader@ureader.lt", "reader@ureader.lt");
+			
+			UserDTO firstManager = new UserDTO("MANAGER", "admin", "admin", "admin@admin.lt",
+					"admin@admin.lt", "admin@admin.lt");
 
 			userService.createUser(firstAdmin);
-			//userService.createUser(firstUser);
+			userService.createUser(firstUser);
 			userService.createUser(firstManager);
 
 		}
