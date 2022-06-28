@@ -191,7 +191,7 @@ export const LoginContainer = () => {
           </span>
         )}
       </div>
-      <div className="row">
+      {/* <div className="row">
         <div className="col">
           <h6 className="py-3 ms-4 me-4">
             Kaip naudotis šia sistema?
@@ -204,7 +204,7 @@ export const LoginContainer = () => {
             </a>
           </h6>
         </div>
-      </div>
+      </div> */}
     </div>
   );
 };
