@@ -10,7 +10,7 @@ $GIT = "git@github.com:viliuskiskis/egzaminas-biblioteka-vk.git"
 # Edit to change active branch
 $BRANCH = "master"
 # Repo name
-$NAME = "egzaminas-biblioteka-vk"
+$NAME = "egzaminas-biblioteka-vk-2"
 # Edit to change active commit - if needed - uncomment necessary code below
 #$COMMIT = "891f7fd48ee88106ed033319cf79b5eb1b2a0dd1"
 
@@ -23,6 +23,8 @@ if (Test-Path -Path $LOC'\'$NAME) {
 	git fetch --all
 	git pull
 } else {
+	mkdir $NAME
+	cd $NAME
     "cloning repo to selected location"
 	git clone $GIT
 	cd $NAME	
