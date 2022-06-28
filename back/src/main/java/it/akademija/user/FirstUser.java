@@ -33,7 +33,7 @@ public class FirstUser {
 
 			
 			UserDTO firstUser = new UserDTO("USER", "reader", "reader", "12345678987", "Address 1", "+37061398876",
-					"reader@ureader.lt", "reader@ureader.lt", "reader@ureader.lt");
+					"reader@ureader.lt", "reader@reader.lt", "reader@reader.lt");
 			
 			UserDTO firstManager = new UserDTO("MANAGER", "admin", "admin", "admin@admin.lt",
 					"admin@admin.lt", "admin@admin.lt");

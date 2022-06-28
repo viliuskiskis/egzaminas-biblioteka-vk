@@ -4,8 +4,8 @@ System user roles and their authorities:
 
 | ROLES | AUTHORITIES |
 | --- | --- |
-| ADMIN |  add/edit/remove book category; add/edit/remove a book 
-| USER | search for a book, reserve it if it is available, add book to favourites |
+| ADMIN |  add/edit/remove book category; add/edit/remove a book (usr:admin@admin.lt pwd:admin@admin.lt)
+| USER | search for a book, reserve it if it is available, add book to favourites (usr:reader@reader.lt pwd:reader@reader.lt) |
 
 #### Technologies used: 
 - React 17.0.1,  Boostrap 5.1.3
