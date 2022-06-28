@@ -52,66 +52,66 @@ public class ApplicationsInit {
     @PostConstruct
     public void uploadApplicationsData() throws IOException {
 
-	if (applicationDAO.findAll().size() < 10) {
-	    ClassLoader classLoader = getClass().getClassLoader();
-	    InputStream inputStream = classLoader.getResourceAsStream("initial_data/applications_data.txt");
-	    
-	    List<Kindergarten> kindergartenList = kindergartenDAO.findAll();
-	    Integer numberOfKindergartens = kindergartenList.size();
-	    Random random = new Random();
-
-	    try (BufferedReader reader = new BufferedReader(
-		    new InputStreamReader(inputStream, StandardCharsets.UTF_8))) {
-		String line;
-		line = reader.readLine(); // Skip first line
-
-		while ((line = reader.readLine()) != null) {
-		    String[] data = line.split(";",-1);
-		    ApplicationDTO applicationDTO = new ApplicationDTO();
-		    String username = data[7];
-		    applicationDTO.setChildName(data[0]);
-		    applicationDTO.setChildSurname(data[1]);
-		    applicationDTO.setChildPersonalCode(data[2]);
-		    applicationDTO.setBirthdate(LocalDate.parse(data[3]));
-		    PrioritiesDTO prioritiesDTO = new PrioritiesDTO(
-			    random.nextBoolean(), 
-			    random.nextBoolean(), 
-			    random.nextBoolean(), 
-			    random.nextBoolean(), 
-			    random.nextBoolean(), 
-			    random.nextBoolean());		
-		    applicationDTO.setPriorities(prioritiesDTO);
-		    UserDTO userDTO = new UserDTO();
-		    userDTO.setRole("USER");
-		    userDTO.setName(data[4]);
-		    userDTO.setSurname(data[5]);
-		    userDTO.setPersonalCode(data[6]);
-		    userDTO.setAddress(data[9]);
-		    userDTO.setPhone(data[8]);
-		    userDTO.setEmail(data[7]);
-		    userDTO.setUsername(data[7]);
-		    applicationDTO.setMainGuardian(userDTO);
-		    if (data[12] != null && data[12] != "") {
-			ParentDetailsDTO parentDetailsDTO = new ParentDetailsDTO();
-			parentDetailsDTO.setPersonalCode(data[12]);
-			parentDetailsDTO.setName(data[11]);
-			parentDetailsDTO.setSurname(data[10]);
-			parentDetailsDTO.setEmail(data[14]);
-			parentDetailsDTO.setAddress(data[15]);
-			parentDetailsDTO.setPhone(data[13]);
-			applicationDTO.setAdditionalGuardian(parentDetailsDTO);
-		    }
-		    KindergartenChoiseDTO kindergartenChoiseDTO = new KindergartenChoiseDTO();
-		    kindergartenChoiseDTO.setKindergartenId1(kindergartenList.get(random.nextInt(numberOfKindergartens)).getId());
-		    kindergartenChoiseDTO.setKindergartenId2(kindergartenList.get(random.nextInt(numberOfKindergartens)).getId());
-		    kindergartenChoiseDTO.setKindergartenId3(kindergartenList.get(random.nextInt(numberOfKindergartens)).getId());
-		    kindergartenChoiseDTO.setKindergartenId4(kindergartenList.get(random.nextInt(numberOfKindergartens)).getId());
-		    kindergartenChoiseDTO.setKindergartenId5(kindergartenList.get(random.nextInt(numberOfKindergartens)).getId());
-		    applicationDTO.setKindergartenChoises(kindergartenChoiseDTO);	
-
-		    applicationService.createNewApplication(username, applicationDTO);
-		}
-	    }
-	}
+//	if (applicationDAO.findAll().size() < 10) {
+//	    ClassLoader classLoader = getClass().getClassLoader();
+//	    InputStream inputStream = classLoader.getResourceAsStream("initial_data/applications_data.txt");
+//	    
+//	    List<Kindergarten> kindergartenList = kindergartenDAO.findAll();
+//	    Integer numberOfKindergartens = kindergartenList.size();
+//	    Random random = new Random();
+//
+//	    try (BufferedReader reader = new BufferedReader(
+//		    new InputStreamReader(inputStream, StandardCharsets.UTF_8))) {
+//		String line;
+//		line = reader.readLine(); // Skip first line
+//
+//		while ((line = reader.readLine()) != null) {
+//		    String[] data = line.split(";",-1);
+//		    ApplicationDTO applicationDTO = new ApplicationDTO();
+//		    String username = data[7];
+//		    applicationDTO.setChildName(data[0]);
+//		    applicationDTO.setChildSurname(data[1]);
+//		    applicationDTO.setChildPersonalCode(data[2]);
+//		    applicationDTO.setBirthdate(LocalDate.parse(data[3]));
+//		    PrioritiesDTO prioritiesDTO = new PrioritiesDTO(
+//			    random.nextBoolean(), 
+//			    random.nextBoolean(), 
+//			    random.nextBoolean(), 
+//			    random.nextBoolean(), 
+//			    random.nextBoolean(), 
+//			    random.nextBoolean());		
+//		    applicationDTO.setPriorities(prioritiesDTO);
+//		    UserDTO userDTO = new UserDTO();
+//		    userDTO.setRole("USER");
+//		    userDTO.setName(data[4]);
+//		    userDTO.setSurname(data[5]);
+//		    userDTO.setPersonalCode(data[6]);
+//		    userDTO.setAddress(data[9]);
+//		    userDTO.setPhone(data[8]);
+//		    userDTO.setEmail(data[7]);
+//		    userDTO.setUsername(data[7]);
+//		    applicationDTO.setMainGuardian(userDTO);
+//		    if (data[12] != null && data[12] != "") {
+//			ParentDetailsDTO parentDetailsDTO = new ParentDetailsDTO();
+//			parentDetailsDTO.setPersonalCode(data[12]);
+//			parentDetailsDTO.setName(data[11]);
+//			parentDetailsDTO.setSurname(data[10]);
+//			parentDetailsDTO.setEmail(data[14]);
+//			parentDetailsDTO.setAddress(data[15]);
+//			parentDetailsDTO.setPhone(data[13]);
+//			applicationDTO.setAdditionalGuardian(parentDetailsDTO);
+//		    }
+//		    KindergartenChoiseDTO kindergartenChoiseDTO = new KindergartenChoiseDTO();
+//		    kindergartenChoiseDTO.setKindergartenId1(kindergartenList.get(random.nextInt(numberOfKindergartens)).getId());
+//		    kindergartenChoiseDTO.setKindergartenId2(kindergartenList.get(random.nextInt(numberOfKindergartens)).getId());
+//		    kindergartenChoiseDTO.setKindergartenId3(kindergartenList.get(random.nextInt(numberOfKindergartens)).getId());
+//		    kindergartenChoiseDTO.setKindergartenId4(kindergartenList.get(random.nextInt(numberOfKindergartens)).getId());
+//		    kindergartenChoiseDTO.setKindergartenId5(kindergartenList.get(random.nextInt(numberOfKindergartens)).getId());
+//		    applicationDTO.setKindergartenChoises(kindergartenChoiseDTO);	
+//
+//		    applicationService.createNewApplication(username, applicationDTO);
+//		}
+//	    }
+//	}
     }
 }

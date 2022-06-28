@@ -32,31 +32,31 @@ public class UsersInit {
     @PostConstruct
     public void uploadUsersData() throws IOException {
 	
-	if (userDAO.findAll().size() < 10) {
-	    ClassLoader classLoader = getClass().getClassLoader();
-	    InputStream inputStream = classLoader.getResourceAsStream("initial_data/users_data.txt");
-
-	    try (BufferedReader reader = new BufferedReader(
-		    new InputStreamReader(inputStream, StandardCharsets.UTF_8))) {
-		String line;
-		line = reader.readLine(); // Skip first line
-
-		while ((line = reader.readLine()) != null) {
-		    String[] data = line.split(";");
-		    UserDTO userDto = new UserDTO();
-		    userDto.setRole("USER");
-		    userDto.setName(data[0]);
-		    userDto.setSurname(data[1]);
-		    userDto.setPersonalCode(data[2]);
-		    userDto.setAddress(data[3]);
-		    userDto.setPhone(data[4]);
-		    userDto.setEmail(data[5]);
-		    userDto.setUsername(data[5]);
-		    userDto.setPassword(data[5]);
-
-		    userService.createUser(userDto);
-		}
-	    }
-	}
+//	if (userDAO.findAll().size() < 10) {
+//	    ClassLoader classLoader = getClass().getClassLoader();
+//	    InputStream inputStream = classLoader.getResourceAsStream("initial_data/users_data.txt");
+//
+//	    try (BufferedReader reader = new BufferedReader(
+//		    new InputStreamReader(inputStream, StandardCharsets.UTF_8))) {
+//		String line;
+//		line = reader.readLine(); // Skip first line
+//
+//		while ((line = reader.readLine()) != null) {
+//		    String[] data = line.split(";");
+//		    UserDTO userDto = new UserDTO();
+//		    userDto.setRole("USER");
+//		    userDto.setName(data[0]);
+//		    userDto.setSurname(data[1]);
+//		    userDto.setPersonalCode(data[2]);
+//		    userDto.setAddress(data[3]);
+//		    userDto.setPhone(data[4]);
+//		    userDto.setEmail(data[5]);
+//		    userDto.setUsername(data[5]);
+//		    userDto.setPassword(data[5]);
+//
+//		    userService.createUser(userDto);
+//		}
+//	    }
+//	}
     }
 }

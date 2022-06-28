@@ -2,11 +2,6 @@
 #	Save as *.ps1, edit variables so suit you
 #	run script from Terminal (powershell should be v7.x) for git operations
 
-	git switch $BRANCH
-	git fetch --all
-	git pull
-
-
 # if there is a problem with gui - edit endpoint.js
 
 #Start-Process powershell -ArgumentList "-noexit", "-noprofile", "-command &{Get-Location}"

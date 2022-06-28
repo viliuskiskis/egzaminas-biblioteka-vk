@@ -46,43 +46,43 @@ public class DocumentsInit {
     @PostConstruct
     public void uploadDocumentsData() throws IOException, DocumentException {
 
-	if (documentDAO.findAll().size() < 10) {
-	    ClassLoader classLoader = getClass().getClassLoader();
-	    InputStream inputStream = classLoader.getResourceAsStream("initial_data/users_data.txt");
-	    String FONT = "times.ttf";
-	    
-	    try (BufferedReader reader = new BufferedReader(
-		    new InputStreamReader(inputStream, StandardCharsets.UTF_8))) {
-		String line;
-		line = reader.readLine(); // Skip first line
-		
-		while ((line = reader.readLine()) != null) {
-		    String[] data = line.split(";");
-		    long uploaderId = userDAO.findByUsername(data[5]).getUserId();
-		    String documentName = data[6] + " " + data[1] + ", pažyma.pdf";
-		    
-		    ByteArrayOutputStream byteArrayOutputStream = new ByteArrayOutputStream();
-		    Document document = new Document();
-		    PdfWriter.getInstance(document, byteArrayOutputStream);
-		    document.open();
-		    BaseFont baseFont = BaseFont.createFont(FONT, BaseFont.IDENTITY_H, BaseFont.EMBEDDED);
-		    Font font = new Font(baseFont, 16);
-		    Chunk chunk = new Chunk(data[6] + " " + data[1] + " yra pažymėta(s)", font);
-		    document.add(chunk);
-		    document.close();
-		    
-		    byte[] pdfBytes = byteArrayOutputStream.toByteArray();
-		    DocumentEntity documentEntity = new DocumentEntity();
-		    documentEntity.setName(documentName);
-		    documentEntity.setType("application/pdf");
-		    documentEntity.setSize(pdfBytes.length);
-		    documentEntity.setData(pdfBytes);
-		    documentEntity.setUploaderId(uploaderId);
-		    documentEntity.setUploadDate(LocalDate.now());
-		    
-		    documentDAO.save(documentEntity);
-		}
-	    }
-	}
+//	if (documentDAO.findAll().size() < 10) {
+//	    ClassLoader classLoader = getClass().getClassLoader();
+//	    InputStream inputStream = classLoader.getResourceAsStream("initial_data/users_data.txt");
+//	    String FONT = "times.ttf";
+//	    
+//	    try (BufferedReader reader = new BufferedReader(
+//		    new InputStreamReader(inputStream, StandardCharsets.UTF_8))) {
+//		String line;
+//		line = reader.readLine(); // Skip first line
+//		
+//		while ((line = reader.readLine()) != null) {
+//		    String[] data = line.split(";");
+//		    long uploaderId = userDAO.findByUsername(data[5]).getUserId();
+//		    String documentName = data[6] + " " + data[1] + ", pažyma.pdf";
+//		    
+//		    ByteArrayOutputStream byteArrayOutputStream = new ByteArrayOutputStream();
+//		    Document document = new Document();
+//		    PdfWriter.getInstance(document, byteArrayOutputStream);
+//		    document.open();
+//		    BaseFont baseFont = BaseFont.createFont(FONT, BaseFont.IDENTITY_H, BaseFont.EMBEDDED);
+//		    Font font = new Font(baseFont, 16);
+//		    Chunk chunk = new Chunk(data[6] + " " + data[1] + " yra pažymėta(s)", font);
+//		    document.add(chunk);
+//		    document.close();
+//		    
+//		    byte[] pdfBytes = byteArrayOutputStream.toByteArray();
+//		    DocumentEntity documentEntity = new DocumentEntity();
+//		    documentEntity.setName(documentName);
+//		    documentEntity.setType("application/pdf");
+//		    documentEntity.setSize(pdfBytes.length);
+//		    documentEntity.setData(pdfBytes);
+//		    documentEntity.setUploaderId(uploaderId);
+//		    documentEntity.setUploadDate(LocalDate.now());
+//		    
+//		    documentDAO.save(documentEntity);
+//		}
+//	    }
+//	}
     }
 }

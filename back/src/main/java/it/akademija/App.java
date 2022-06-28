@@ -52,7 +52,7 @@ public class App extends SpringBootServletInitializer {
 	}
 
 	private ApiInfo apiInfo() {
-		return new ApiInfoBuilder().title("Darželių informacinė sistema -- REST dokumentacija").version("0.0.1-SNAPSHOT").build();
+		return new ApiInfoBuilder().title("Biblioteka -- REST dokumentacija").version("0.0.1-SNAPSHOT").build();
 	}
 
 }
