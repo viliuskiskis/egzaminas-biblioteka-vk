@@ -1,4 +1,0 @@
-﻿0 p.name;1 surname;2 p.ak;3 p.address;4 p.phone;5 p.email;6 c.name
-Vidymantas;Riekašius;38601150093;"Ilgiausia g. 1, Vilnius";+37060000001;user1@user.lt;Rusnis
-Gytautas;Vėlius;38601150016;"Ilgiausia g. 2, Vilnius";+37060000002;user2@user.lt;Girmintas
-Pilėnas;Subelis;38601150060;"Ilgiausia g. 3, Vilnius";+37060000003;user3@user.lt;Gitavtas

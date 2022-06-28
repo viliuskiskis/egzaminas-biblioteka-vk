@@ -1,4 +1,0 @@
-﻿0 k.id;1 k.name;2 k.address;3 k.elderate;4 m.name;5 m.surname;6 latitude;7 longitude
-190032931;Aitvaras;Pašilaičių g. 10;Pašilaičių;Auginas;Batėnas;54.73031957283682; 25.23131588335099
-190019122;Atžalėlės;Antakalnio g. 74;Antakalnio;Odinas;Čepulis;54.70993793961688; 25.312747341023332
-190020391;Aušrelė;Gerosios Vilties g. 28;Vilkpėdės;Ervinas;Sibrikas;54.67180826954861; 25.248869556368156

@@ -1,3 +1,0 @@
-﻿0 c.name;1 surname;2 c.ak;3 c.birthdate;4 p.name;5 p.surname;6 p.ak;7 p.email;8 p.phone;9 k.name;10 k.code;11 k.phone;12 k.email;13 k.account;14 k.address;15 p.address;16 k.bankName;17 k.bankCode
-Rusnis;Riekašius;51601150093;2016-01-15;Vidymantas;Riekašius;38601150093;user1@user.lt;+37060000001;Blizgutis;123000001;861000001;darzelis1@darzelis.lt;LT000000000000000001;"Ilgiausia g. 201, Vilnius";"Ilgiausia g. 1, Vilnius";Pinigų Pieninė;PNGPNN66
-Girmintas;Vėlius;51601150016;2016-01-15;Gytautas;Vėlius;38601150016;user2@user.lt;+37060000002;Dudutis;123000002;861000002;darzelis2@darzelis.lt;LT000000000000000002;"Ilgiausia g. 202, Vilnius";"Ilgiausia g. 2, Vilnius";Pinigų Pieninė;PNGPNN66

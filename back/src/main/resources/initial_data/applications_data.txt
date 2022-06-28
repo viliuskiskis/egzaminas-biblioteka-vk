@@ -1,3 +1,0 @@
-﻿0 c.name;1 c.surname;2 c.ak;3  c.birthdate;4 p.name;5 p.surname;6 p.ak;7 p.email;8 p.phone;9 p.address;10 a.surname;11 a.name;12 a.ak;13 a.phone;14 a.email;15 a.address
-Rusnis;Riekašius;51601150093;2016-01-15;Vidymantas;Riekašius;38601150093;user1@user.lt;+37060000001;"Ilgiausia g. 1, Vilnius";Riekašė;Adolaida;49104120001;862000001;parent1@parent.lt;"Ilgiausia g. 1, Vilnius"
-Girmintas;Vėlius;51601150016;2016-01-15;Gytautas;Vėlius;38601150016;user2@user.lt;+37060000002;"Ilgiausia g. 2, Vilnius";Vėlė;Juvencija;49104120002;862000002;parent2@parent.lt;"Ilgiausia g. 2, Vilnius"
